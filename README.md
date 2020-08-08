@@ -1,8 +1,8 @@
 ### Hi there, I'm Darin 👋
 
 ## Here's what I'm up to
-- I'm a services consultant for [CloudBees][https://www.cloudbees.com/]
-- I'm the co-host of a weekly podcast named [DevOps Paradox][https://www.devopsparadox.com/]
+- I'm a services consultant for [CloudBees][cloudbees-website]
+- I'm the co-host of a weekly podcast named [DevOps Paradox][dop-website]
 
 ### Connect with me:
 
@@ -16,6 +16,8 @@
 [youtube]: https://youtube.com/darinpope
 [instagram]: https://instagram.com/darinpope
 [linkedin]: https://linkedin.com/in/darinpope
+[cloudbees-website]: https://www.cloudbees.com/
+[dop-website]: https://www.devopsparadox.com/
 
 <!--
 **darinpope/darinpope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
