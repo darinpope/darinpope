@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Darin 👋
+
+## Here's what I'm up to
+- I'm a services consultant for [CloudBees][https://www.cloudbees.com/]
+- I'm the co-host of a weekly podcast named [DevOps Paradox][https://www.devopsparadox.com/]
 
 ### Connect with me:
 
