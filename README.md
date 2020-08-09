@@ -22,7 +22,7 @@
 - [DOP 63: Serverless 101](https://www.devopsparadox.com/episodes/serverless-101-63)
 <!-- BLOG-POST-LIST:END -->
 
-# Recent livestreams on YouTube
+# Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
