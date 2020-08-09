@@ -10,6 +10,10 @@
 [<img align="left" alt="darinpope | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="darinpope | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+# Recent podcast episodes
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://www.darinpope.com/
 [twitter]: https://twitter.com/darinpope
