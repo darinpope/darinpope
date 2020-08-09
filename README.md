@@ -12,6 +12,7 @@
 
 <br />
 <br />
+---
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
@@ -22,6 +23,8 @@
 - [DOP 63: Serverless 101](https://www.devopsparadox.com/episodes/serverless-101-63)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
 - [🔴  Microsoft enters the service mesh business...sort of](https://www.youtube.com/watch?v=1HS1uC4nALQ)
@@ -30,6 +33,10 @@
 - [🔴  Should you move your VMware workload to Google Cloud?](https://www.youtube.com/watch?v=ziTC0Fv5wok)
 - [🔴  SUSE to acquire Rancher Labs. How does this affect the Kubernetes landscape?](https://www.youtube.com/watch?v=G0heTxBu9NU)
 <!-- YOUTUBE:END -->
+
+---
+
+<img align="left" alt="darinpope's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=darinpope&show_icons=true&hide_border=true" />
 
 
 [website]: https://www.darinpope.com/
