@@ -10,6 +10,9 @@
 [<img align="left" alt="darinpope | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="darinpope | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
+
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
 - [DOP 67: Orchestrating Chaos on Kubernetes using LitmusChaos](https://www.devopsparadox.com/episodes/orchestrating-chaos-on-kubernetes-using-litmuschaos-67/)
@@ -20,8 +23,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 # Recent livestreams on YouTube
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 [website]: https://www.darinpope.com/
