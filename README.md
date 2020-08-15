@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 14Aug2020](https://www.youtube.com/watch?v=kDQgNjZ9qD4)
+- [🔴  Docker's new container image retention policy announced](https://www.youtube.com/watch?v=kDQgNjZ9qD4)
 - [🔴  Microsoft enters the service mesh business...sort of](https://www.youtube.com/watch?v=1HS1uC4nALQ)
 - [🔴  Manage your Kubernetes costs with Kubecost](https://www.youtube.com/watch?v=QsreabBziGY)
 - [🔴  The reason why AWS Copilot is special](https://www.youtube.com/watch?v=hYtidV2mKoY)
