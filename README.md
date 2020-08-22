@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 21Aug2020](https://www.youtube.com/watch?v=tv5721-uQ_w)
+- [🔴 What’s new in Kubernetes 1.19?](https://www.youtube.com/watch?v=tv5721-uQ_w)
 - [🔴  Docker's new container image retention policy announced](https://www.youtube.com/watch?v=kDQgNjZ9qD4)
 - [🔴  Microsoft enters the service mesh business...sort of](https://www.youtube.com/watch?v=1HS1uC4nALQ)
 - [🔴  Manage your Kubernetes costs with Kubecost](https://www.youtube.com/watch?v=QsreabBziGY)
