@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 71: Observability in the Cloud with CloudWize](https://www.devopsparadox.com/episodes/observability-in-the-cloud-with-cloudwize-71/)
 - [DOP 70: High Availability Does Not Mean 100% Availability](https://www.devopsparadox.com/episodes/high-availability-does-not-mean-100-availability-70/)
 - [DOP 69: Is Containers as a Service Serverless?](https://www.devopsparadox.com/episodes/is-containers-as-a-service-serverless-69/)
 - [DOP 68: Is Docker Back?](https://www.devopsparadox.com/episodes/is-docker-back-68/)
 - [DOP 67: Orchestrating Chaos on Kubernetes using LitmusChaos](https://www.devopsparadox.com/episodes/orchestrating-chaos-on-kubernetes-using-litmuschaos-67/)
-- [DOP 66: AWS Lambda vs. Google Cloud Functions vs. Azure Functions for 2020](https://www.devopsparadox.com/episodes/aws-lambda-vs-google-cloud-functions-vs-azure-functions-for-2020-66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
