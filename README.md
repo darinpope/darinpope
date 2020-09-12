@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 11Sep2020](https://www.youtube.com/watch?v=_0PWYyn8XZI)
+- [🔴 Codespaces is dead. Long live Codespaces!](https://www.youtube.com/watch?v=_0PWYyn8XZI)
 - [🔴 Do we need another container registry?](https://www.youtube.com/watch?v=PAzrQwDzbos)
 - [🔴 Kubernetes 1.19 has arrived!](https://www.youtube.com/watch?v=w6SkjbqkeO8)
 - [🔴 What’s new in Kubernetes 1.19?](https://www.youtube.com/watch?v=tv5721-uQ_w)
