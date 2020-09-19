@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 18Sep2020](https://www.youtube.com/watch?v=j5aIFiFEgrk)
+- [🔴 Snowflake and JFrog Go Public](https://www.youtube.com/watch?v=j5aIFiFEgrk)
 - [🔴 Codespaces is dead. Long live Codespaces!](https://www.youtube.com/watch?v=_0PWYyn8XZI)
 - [🔴 Do we need another container registry?](https://www.youtube.com/watch?v=PAzrQwDzbos)
 - [🔴 Kubernetes 1.19 has arrived!](https://www.youtube.com/watch?v=w6SkjbqkeO8)
