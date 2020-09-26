@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 Azure Kubernetes Service lands on-prem](https://www.youtube.com/watch?v=WiDOVUYYwG8)
 - [🔴 Snowflake and JFrog Go Public](https://www.youtube.com/watch?v=j5aIFiFEgrk)
 - [🔴 Codespaces is dead. Long live Codespaces!](https://www.youtube.com/watch?v=_0PWYyn8XZI)
 - [🔴 Do we need another container registry?](https://www.youtube.com/watch?v=PAzrQwDzbos)
 - [🔴 Kubernetes 1.19 has arrived!](https://www.youtube.com/watch?v=w6SkjbqkeO8)
-- [🔴 What’s new in Kubernetes 1.19?](https://www.youtube.com/watch?v=tv5721-uQ_w)
 <!-- YOUTUBE:END -->
 
 ---
