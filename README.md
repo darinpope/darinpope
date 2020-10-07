@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 76: How to be a Cloud Engineer with Pulumi](https://www.devopsparadox.com/episodes/how-to-be-a-cloud-engineer-with-pulumi-76/)
 - [DOP 75: What is Code?](https://www.devopsparadox.com/episodes/what-is-code-75/)
 - [DOP 74: Using GitOps in Your DevOps Workflow](https://www.devopsparadox.com/episodes/using-gitops-in-your-devops-workflow-74/)
 - [DOP 73: Logging with Loki](https://www.devopsparadox.com/episodes/logging-with-loki-73/)
 - [DOP 72: Mastering Kubernetes with Gigi Sayfan](https://www.devopsparadox.com/episodes/mastering-kubernetes-with-gigi-sayfan-72/)
-- [DOP 71: Observability in the Cloud with CloudWize](https://www.devopsparadox.com/episodes/observability-in-the-cloud-with-cloudwize-71/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
