@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 9Oct2020](https://www.youtube.com/watch?v=4pSN6buSedc)
+- [🔴 Third-party scan tools come to GitHub](https://www.youtube.com/watch?v=4pSN6buSedc)
 - [🔴 The Dark Side of Hacktoberfest](https://www.youtube.com/watch?v=SV-L9JKSOyk)
 - [🔴 Azure Kubernetes Service lands on-prem](https://www.youtube.com/watch?v=WiDOVUYYwG8)
 - [🔴 Snowflake and JFrog Go Public](https://www.youtube.com/watch?v=j5aIFiFEgrk)
