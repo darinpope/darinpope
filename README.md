@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 16Oct2020](https://www.youtube.com/watch?v=k61bePcAvUo)
 - [🔴 Third-party scan tools come to GitHub](https://www.youtube.com/watch?v=4pSN6buSedc)
 - [🔴 The Dark Side of Hacktoberfest](https://www.youtube.com/watch?v=SV-L9JKSOyk)
 - [🔴 Azure Kubernetes Service lands on-prem](https://www.youtube.com/watch?v=WiDOVUYYwG8)
 - [🔴 Snowflake and JFrog Go Public](https://www.youtube.com/watch?v=j5aIFiFEgrk)
-- [🔴 Codespaces is dead. Long live Codespaces!](https://www.youtube.com/watch?v=_0PWYyn8XZI)
 <!-- YOUTUBE:END -->
 
 ---
