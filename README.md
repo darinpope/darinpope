@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 23Oct2020](https://www.youtube.com/watch?v=o6-wjhK2Y5M)
+- [🔴 Swipe Left for Security!](https://www.youtube.com/watch?v=o6-wjhK2Y5M)
 - [🔴 HashiCorp announces Boundary and Waypoint](https://www.youtube.com/watch?v=k61bePcAvUo)
 - [🔴 Third-party scan tools come to GitHub](https://www.youtube.com/watch?v=4pSN6buSedc)
 - [🔴 The Dark Side of Hacktoberfest](https://www.youtube.com/watch?v=SV-L9JKSOyk)
