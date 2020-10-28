@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 79: Are You Doing CI, CD or None of the Above?](https://www.devopsparadox.com/episodes/are-you-doing-ci-cd-or-none-of-the-above-79/)
 - [DOP 78: A Day in the Life of a SRE](https://www.devopsparadox.com/episodes/a-day-in-the-life-of-a-sre-78/)
 - [DOP 77: NOC as a Service with Xiteit](https://www.devopsparadox.com/episodes/noc-as-a-service-with-xiteit-77/)
 - [DOP 76: How to be a Cloud Engineer with Pulumi](https://www.devopsparadox.com/episodes/how-to-be-a-cloud-engineer-with-pulumi-76/)
 - [DOP 75: What is Code?](https://www.devopsparadox.com/episodes/what-is-code-75/)
-- [DOP 74: Using GitOps in Your DevOps Workflow](https://www.devopsparadox.com/episodes/using-gitops-in-your-devops-workflow-74/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
