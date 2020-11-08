@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴  LIVE: Happy Hour / AMA for 6Nov2020](https://www.youtube.com/watch?v=7Cpmx92p3l8)
+- [🔴  AWS Takes on Docker Hub](https://www.youtube.com/watch?v=7Cpmx92p3l8)
 - [🔴  Dockerpocalypse Has Arrived](https://www.youtube.com/watch?v=jf3-9TkCkXc)
 - [🔴 Swipe Left for Security!](https://www.youtube.com/watch?v=o6-wjhK2Y5M)
 - [🔴 HashiCorp announces Boundary and Waypoint](https://www.youtube.com/watch?v=k61bePcAvUo)
