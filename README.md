@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 81: Making Email Provider Integration Simple With Nylas](https://www.devopsparadox.com/episodes/making-email-provider-integration-simple-with-nylas-81/)
 - [DOP 80: What Should I Outsource to a Managed Solution?](https://www.devopsparadox.com/episodes/what-should-i-outsource-to-a-managed-solution-80/)
 - [DOP 79: Are You Doing CI, CD or None of the Above?](https://www.devopsparadox.com/episodes/are-you-doing-ci-cd-or-none-of-the-above-79/)
 - [DOP 78: A Day in the Life of a SRE](https://www.devopsparadox.com/episodes/a-day-in-the-life-of-a-sre-78/)
 - [DOP 77: NOC as a Service with Xiteit](https://www.devopsparadox.com/episodes/noc-as-a-service-with-xiteit-77/)
-- [DOP 76: How to be a Cloud Engineer with Pulumi](https://www.devopsparadox.com/episodes/how-to-be-a-cloud-engineer-with-pulumi-76/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
