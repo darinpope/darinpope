@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 84: Mattermost Saves a 30 Year Old D&D Campaign](https://www.devopsparadox.com/episodes/mattermost-saves-a-30-year-old-d-d-campaign-84/)
 - [DOP 83: Using Spring to Develop Cloud Native Applications](https://www.devopsparadox.com/episodes/using-spring-to-develop-cloud-native-applications-83/)
 - [DOP 82: Where You Live Shouldn't Define Your Pay](https://www.devopsparadox.com/episodes/where-you-live-shouldnt-define-your-pay-82/)
 - [DOP 81: Making Email Provider Integration Simple With Nylas](https://www.devopsparadox.com/episodes/making-email-provider-integration-simple-with-nylas-81/)
 - [DOP 80: What Should I Outsource to a Managed Solution?](https://www.devopsparadox.com/episodes/what-should-i-outsource-to-a-managed-solution-80/)
-- [DOP 79: Are You Doing CI, CD or None of the Above?](https://www.devopsparadox.com/episodes/are-you-doing-ci-cd-or-none-of-the-above-79/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
