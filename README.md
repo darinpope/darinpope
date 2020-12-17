@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 86: Your Internal Developer Platform Sucks](https://www.devopsparadox.com/episodes/your-internal-developer-platform-sucks-86/)
 - [DOP 85: The Hidden Costs of DevOps](https://www.devopsparadox.com/episodes/the-hidden-costs-of-devops-85/)
 - [DOP 84: Mattermost Saves a 30 Year Old D&D Campaign](https://www.devopsparadox.com/episodes/mattermost-saves-a-30-year-old-d-d-campaign-84/)
 - [DOP 83: Using Spring to Develop Cloud Native Applications](https://www.devopsparadox.com/episodes/using-spring-to-develop-cloud-native-applications-83/)
 - [DOP 82: Where You Live Shouldn't Define Your Pay](https://www.devopsparadox.com/episodes/where-you-live-shouldnt-define-your-pay-82/)
-- [DOP 81: Making Email Provider Integration Simple With Nylas](https://www.devopsparadox.com/episodes/making-email-provider-integration-simple-with-nylas-81/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
