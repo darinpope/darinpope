@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 18Dec2020](https://www.youtube.com/watch?v=rXVoMKVMdOQ)
 - [🔴 The Lifetime of Kubernetes](https://www.youtube.com/watch?v=4nSumcq9RYY)
 - [🔴 Docker Goneski: The Pain Is Real](https://www.youtube.com/watch?v=m9ulREUNalo)
 - [🔴 The Internet Breaks Whenever AWS Goes Down](https://www.youtube.com/watch?v=F3zdBGWVJKU)
 - [🔴  KubeCon North America 2020 Review](https://www.youtube.com/watch?v=cv3nricbhjw)
-- [🔴 The Four Different Phases of Kubernetes](https://www.youtube.com/watch?v=roWJvjAylMo)
 <!-- YOUTUBE:END -->
 
 ---
