@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 89: 2021 - the Year of the Irrelevant](https://www.devopsparadox.com/episodes/2021-the-year-of-the-irrelevant-89/)
 - [DOP 88: DevOps in 2020 - Year in Review](https://www.devopsparadox.com/episodes/devops-in-2020-year-in-review-88/)
 - [DOP 87: God Bless Us Everyone](https://www.devopsparadox.com/episodes/god-bless-us-everyone-87/)
 - [DOP 86: Your Internal Developer Platform Sucks](https://www.devopsparadox.com/episodes/your-internal-developer-platform-sucks-86/)
 - [DOP 85: The Hidden Costs of DevOps](https://www.devopsparadox.com/episodes/the-hidden-costs-of-devops-85/)
-- [DOP 84: Mattermost Saves a 30 Year Old D&D Campaign](https://www.devopsparadox.com/episodes/mattermost-saves-a-30-year-old-d-d-campaign-84/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
