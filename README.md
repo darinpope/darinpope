@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 90: Event Driven Continuous Delivery With Keptn](https://www.devopsparadox.com/episodes/event-driven-continuous-delivery-with-keptn-90/)
 - [DOP 89: 2021 - the Year of the Irrelevant](https://www.devopsparadox.com/episodes/2021-the-year-of-the-irrelevant-89/)
 - [DOP 88: DevOps in 2020 - Year in Review](https://www.devopsparadox.com/episodes/devops-in-2020-year-in-review-88/)
 - [DOP 87: God Bless Us Everyone](https://www.devopsparadox.com/episodes/god-bless-us-everyone-87/)
 - [DOP 86: Your Internal Developer Platform Sucks](https://www.devopsparadox.com/episodes/your-internal-developer-platform-sucks-86/)
-- [DOP 85: The Hidden Costs of DevOps](https://www.devopsparadox.com/episodes/the-hidden-costs-of-devops-85/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
