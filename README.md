@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 22Jan2021](https://www.youtube.com/watch?v=kLQ83oTyG5w)
 - [🔴 Grafana Cloud Announces a Forever Free Plan](https://www.youtube.com/watch?v=d6AnIwaR_GE)
 - [🔴 The Rise of Sealed Secrets and PostItOps](https://www.youtube.com/watch?v=XFJZxHeO93I)
 - [🔴 A Less Painful Way to Manage AWS ECS](https://www.youtube.com/watch?v=HBDk7aUkHos)
 - [🔴 Christmas presents from AWS and GCP](https://www.youtube.com/watch?v=rXVoMKVMdOQ)
-- [🔴 The Lifetime of Kubernetes](https://www.youtube.com/watch?v=4nSumcq9RYY)
 <!-- YOUTUBE:END -->
 
 ---
