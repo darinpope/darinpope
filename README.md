@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 93: Creating a Healthy Working Environment](https://www.devopsparadox.com/episodes/creating-a-healthy-working-environment-93/)
 - [DOP 92: Frontend vs Backend Development in 2021](https://www.devopsparadox.com/episodes/frontend-vs-backend-development-in-2021-92/)
 - [DOP 91: It's Past Time to Abandon Docker Compose](https://www.devopsparadox.com/episodes/its-past-time-to-abandon-docker-compose-91/)
 - [DOP 90: Event Driven Continuous Delivery With Keptn](https://www.devopsparadox.com/episodes/event-driven-continuous-delivery-with-keptn-90/)
 - [DOP 89: 2021 - the Year of the Irrelevant](https://www.devopsparadox.com/episodes/2021-the-year-of-the-irrelevant-89/)
-- [DOP 88: DevOps in 2020 - Year in Review](https://www.devopsparadox.com/episodes/devops-in-2020-year-in-review-88/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
