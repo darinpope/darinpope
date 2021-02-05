@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 5Feb2021](https://www.youtube.com/watch?v=6ulOVSDI3x0)
 - [🔴  Logz.io Jumps Into the Elastic Fray](https://www.youtube.com/watch?v=8j5ptYfB_Ok)
 - [🔴 The AWS and Elastic Saga Continues](https://www.youtube.com/watch?v=kLQ83oTyG5w)
 - [🔴 Grafana Cloud Announces a Forever Free Plan](https://www.youtube.com/watch?v=d6AnIwaR_GE)
 - [🔴 The Rise of Sealed Secrets and PostItOps](https://www.youtube.com/watch?v=XFJZxHeO93I)
-- [🔴 A Less Painful Way to Manage AWS ECS](https://www.youtube.com/watch?v=HBDk7aUkHos)
 <!-- YOUTUBE:END -->
 
 ---
