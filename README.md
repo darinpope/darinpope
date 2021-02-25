@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 96: The Kubernetes API Is Becoming Omnipresent](https://www.devopsparadox.com/episodes/the-kubernetes-api-is-becoming-omnipresent-96/)
 - [DOP 95: Should Everything Be Automated?](https://www.devopsparadox.com/episodes/should-everything-be-automated-95/)
 - [DOP 94: Are Videos or Text Better for Learning?](https://www.devopsparadox.com/episodes/are-videos-or-text-better-for-learning-94/)
 - [DOP 93: Creating a Healthy Working Environment](https://www.devopsparadox.com/episodes/creating-a-healthy-working-environment-93/)
 - [DOP 92: Frontend vs Backend Development in 2021](https://www.devopsparadox.com/episodes/frontend-vs-backend-development-in-2021-92/)
-- [DOP 91: It's Past Time to Abandon Docker Compose](https://www.devopsparadox.com/episodes/its-past-time-to-abandon-docker-compose-91/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
