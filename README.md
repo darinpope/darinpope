@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 26Feb2021](https://www.youtube.com/watch?v=-0DRK_hFfrw)
 - [🔴 AWS EKS Now Supports 1.19 and OIDC](https://www.youtube.com/watch?v=TRlwih7zu9A)
 - [🔴 Everything Should Be Event Based](https://www.youtube.com/watch?v=n6Fa-Ro05Ps)
 - [🔴 Docker Distribution Donated to the CNCF](https://www.youtube.com/watch?v=6ulOVSDI3x0)
 - [🔴  Logz.io Jumps Into the Elastic Fray](https://www.youtube.com/watch?v=8j5ptYfB_Ok)
-- [🔴 The AWS and Elastic Saga Continues](https://www.youtube.com/watch?v=kLQ83oTyG5w)
 <!-- YOUTUBE:END -->
 
 ---
