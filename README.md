@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 26Feb2021](https://www.youtube.com/watch?v=-0DRK_hFfrw)
+- [🔴 Google Announces GKE Autopilot](https://www.youtube.com/watch?v=-0DRK_hFfrw)
 - [🔴 AWS EKS Now Supports 1.19 and OIDC](https://www.youtube.com/watch?v=TRlwih7zu9A)
 - [🔴 Everything Should Be Event Based](https://www.youtube.com/watch?v=n6Fa-Ro05Ps)
 - [🔴 Docker Distribution Donated to the CNCF](https://www.youtube.com/watch?v=6ulOVSDI3x0)
