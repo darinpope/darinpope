@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 97: Processing Event Streams With Apache Kafka](https://www.devopsparadox.com/episodes/processing-event-streams-with-apache-kafka-97/)
 - [DOP 96: The Kubernetes API Is Becoming Omnipresent](https://www.devopsparadox.com/episodes/the-kubernetes-api-is-becoming-omnipresent-96/)
 - [DOP 95: Should Everything Be Automated?](https://www.devopsparadox.com/episodes/should-everything-be-automated-95/)
 - [DOP 94: Are Videos or Text Better for Learning?](https://www.devopsparadox.com/episodes/are-videos-or-text-better-for-learning-94/)
 - [DOP 93: Creating a Healthy Working Environment](https://www.devopsparadox.com/episodes/creating-a-healthy-working-environment-93/)
-- [DOP 92: Frontend vs Backend Development in 2021](https://www.devopsparadox.com/episodes/frontend-vs-backend-development-in-2021-92/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
