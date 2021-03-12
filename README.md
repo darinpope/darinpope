@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 12Mar2021](https://www.youtube.com/watch?v=CHcaV6YRO5Y)
 - [🔴  Okta Acquires Auth0](https://www.youtube.com/watch?v=z7mp3GzfUkQ)
 - [🔴 Google Announces GKE Autopilot](https://www.youtube.com/watch?v=-0DRK_hFfrw)
 - [🔴 AWS EKS Now Supports 1.19 and OIDC](https://www.youtube.com/watch?v=TRlwih7zu9A)
 - [🔴 Everything Should Be Event Based](https://www.youtube.com/watch?v=n6Fa-Ro05Ps)
-- [🔴 Docker Distribution Donated to the CNCF](https://www.youtube.com/watch?v=6ulOVSDI3x0)
 <!-- YOUTUBE:END -->
 
 ---
