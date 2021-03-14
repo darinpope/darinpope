@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 12Mar2021](https://www.youtube.com/watch?v=CHcaV6YRO5Y)
+- [🔴 Have You Tested Your Disaster Recovery Plan?](https://www.youtube.com/watch?v=CHcaV6YRO5Y)
 - [🔴  Okta Acquires Auth0](https://www.youtube.com/watch?v=z7mp3GzfUkQ)
 - [🔴 Google Announces GKE Autopilot](https://www.youtube.com/watch?v=-0DRK_hFfrw)
 - [🔴 AWS EKS Now Supports 1.19 and OIDC](https://www.youtube.com/watch?v=TRlwih7zu9A)
