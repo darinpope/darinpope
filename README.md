@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 99: Do DevOps Engineers Need to Know How to Code?](https://www.devopsparadox.com/episodes/do-devops-engineers-need-to-know-how-to-code-99/)
 - [DOP 98: Kubernetes Troubleshooting Simplified With Komodor](https://www.devopsparadox.com/episodes/kubernetes-troubleshooting-simplified-with-komodor-98/)
 - [DOP 97: Processing Event Streams With Apache Kafka](https://www.devopsparadox.com/episodes/processing-event-streams-with-apache-kafka-97/)
 - [DOP 96: The Kubernetes API Is Becoming Omnipresent](https://www.devopsparadox.com/episodes/the-kubernetes-api-is-becoming-omnipresent-96/)
 - [DOP 95: Should Everything Be Automated?](https://www.devopsparadox.com/episodes/should-everything-be-automated-95/)
-- [DOP 94: Are Videos or Text Better for Learning?](https://www.devopsparadox.com/episodes/are-videos-or-text-better-for-learning-94/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
