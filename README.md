@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 2Apr2021](https://www.youtube.com/watch?v=N9cje1a70QE)
+- [🔴 What's New in Kubernetes 1.21](https://www.youtube.com/watch?v=N9cje1a70QE)
 - [🔴 Will You Subscribe to K9sAlpha?](https://www.youtube.com/watch?v=QR69_o9RZeI)
 - [🔴 Have You Tested Your Disaster Recovery Plan?](https://www.youtube.com/watch?v=CHcaV6YRO5Y)
 - [🔴  Okta Acquires Auth0](https://www.youtube.com/watch?v=z7mp3GzfUkQ)
