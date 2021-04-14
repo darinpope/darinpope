@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 103: Knative in Action](https://www.devopsparadox.com/episodes/knative-in-action-103/)
 - [DOP 102: Getting Started With Open Policy Agent](https://www.devopsparadox.com/episodes/getting-started-with-open-policy-agent-102/)
 - [DOP 101: What to Do When Technology Fails](https://www.devopsparadox.com/episodes/what-to-do-when-technology-fails-101/)
 - [DOP 100: Course Correcting DevOps](https://www.devopsparadox.com/episodes/course-correcting-devops-100/)
 - [DOP 99: Do DevOps Engineers Need to Know How to Code?](https://www.devopsparadox.com/episodes/do-devops-engineers-need-to-know-how-to-code-99/)
-- [DOP 98: Kubernetes Troubleshooting Simplified With Komodor](https://www.devopsparadox.com/episodes/kubernetes-troubleshooting-simplified-with-komodor-98/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
