@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 105: Does History Repeat Itself?](https://www.devopsparadox.com/episodes/does-history-repeat-itself-105/)
 - [DOP 104: Technical Debt Is a Business Decision](https://www.devopsparadox.com/episodes/technical-debt-is-a-business-decision-104/)
 - [DOP 103: Knative in Action](https://www.devopsparadox.com/episodes/knative-in-action-103/)
 - [DOP 102: Getting Started With Open Policy Agent](https://www.devopsparadox.com/episodes/getting-started-with-open-policy-agent-102/)
 - [DOP 101: What to Do When Technology Fails](https://www.devopsparadox.com/episodes/what-to-do-when-technology-fails-101/)
-- [DOP 100: Course Correcting DevOps](https://www.devopsparadox.com/episodes/course-correcting-devops-100/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
