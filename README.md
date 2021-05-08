@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 7May2021](https://www.youtube.com/watch?v=aPkI3JppdFQ)
+- [🔴 Use a Container Registry for Binary Distribution?](https://www.youtube.com/watch?v=aPkI3JppdFQ)
 - [🔴 Dependabot Preview Is Now Dependabot](https://www.youtube.com/watch?v=DKPLKDMI02U)
 - [🔴 Mirantis Confirms the Future of Dockershim](https://www.youtube.com/watch?v=Ck2YFvgCGrs)
 - [🔴 AWS Announces the OpenSearch Project](https://www.youtube.com/watch?v=CfvrdLcelac)
