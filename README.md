@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 108: Why Do We Want to Use Microservices?](https://www.devopsparadox.com/episodes/why-do-we-want-to-use-microservices-108/)
 - [DOP 107: Getting Into the Flow With Value Streams](https://www.devopsparadox.com/episodes/getting-into-the-flow-with-value-streams-107/)
 - [DOP 106: The Difference Between SRE and DevOps](https://www.devopsparadox.com/episodes/the-difference-between-sre-and-devops-106/)
 - [DOP 105: Does History Repeat Itself?](https://www.devopsparadox.com/episodes/does-history-repeat-itself-105/)
 - [DOP 104: Technical Debt Is a Business Decision](https://www.devopsparadox.com/episodes/technical-debt-is-a-business-decision-104/)
-- [DOP 103: Knative in Action](https://www.devopsparadox.com/episodes/knative-in-action-103/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
