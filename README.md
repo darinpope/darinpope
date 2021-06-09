@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 110: The Problems With Microservices](https://www.devopsparadox.com/episodes/the-problems-with-microservices-110/)
 - [DOP 109: How to Test Microservices](https://www.devopsparadox.com/episodes/how-to-test-microservices-109/)
 - [DOP 108: Why Do We Want to Use Microservices?](https://www.devopsparadox.com/episodes/why-do-we-want-to-use-microservices-108/)
 - [DOP 107: Getting Into the Flow With Value Streams](https://www.devopsparadox.com/episodes/getting-into-the-flow-with-value-streams-107/)
 - [DOP 106: The Difference Between SRE and DevOps](https://www.devopsparadox.com/episodes/the-difference-between-sre-and-devops-106/)
-- [DOP 105: Does History Repeat Itself?](https://www.devopsparadox.com/episodes/does-history-repeat-itself-105/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
