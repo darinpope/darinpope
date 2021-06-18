@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 18Jun2021](https://www.youtube.com/watch?v=VUFx6XRoAHc)
 - [🔴 LIVE: Happy Hour / AMA for 11Jun2021](https://www.youtube.com/watch?v=eh3WI46_62c)
 - [🔴 LIVE: Happy Hour / AMA for 4Jun2021](https://www.youtube.com/watch?v=ns4PTldIoqU)
 - [🔴 Use a Container Registry for Binary Distribution?](https://www.youtube.com/watch?v=aPkI3JppdFQ)
 - [🔴 Dependabot Preview Is Now Dependabot](https://www.youtube.com/watch?v=DKPLKDMI02U)
-- [🔴 Mirantis Confirms the Future of Dockershim](https://www.youtube.com/watch?v=Ck2YFvgCGrs)
 <!-- YOUTUBE:END -->
 
 ---
