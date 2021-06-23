@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 112: Essential Infrastructure as Code](https://www.devopsparadox.com/episodes/essential-infrastructure-as-code-112/)
 - [DOP 111: What Are Software Supply Chain Attacks?](https://www.devopsparadox.com/episodes/what-are-software-supply-chain-attacks-111/)
 - [DOP 110: The Problems With Microservices](https://www.devopsparadox.com/episodes/the-problems-with-microservices-110/)
 - [DOP 109: How to Test Microservices](https://www.devopsparadox.com/episodes/how-to-test-microservices-109/)
 - [DOP 108: Why Do We Want to Use Microservices?](https://www.devopsparadox.com/episodes/why-do-we-want-to-use-microservices-108/)
-- [DOP 107: Getting Into the Flow With Value Streams](https://www.devopsparadox.com/episodes/getting-into-the-flow-with-value-streams-107/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
