@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 9Jul2021](https://www.youtube.com/watch?v=RSxLRKH62L0)
 - [🔴 Is GitHub Copilot Going to Put Developers Out of a Job?](https://www.youtube.com/watch?v=_YniXXRl0yU)
 - [🔴 LIVE: Happy Hour / AMA for 25Jun2021](https://www.youtube.com/watch?v=6m2KEV_4ssU)
 - [🔴 LIVE: Happy Hour / AMA for 18Jun2021](https://www.youtube.com/watch?v=VUFx6XRoAHc)
 - [🔴 LIVE: Happy Hour / AMA for 11Jun2021](https://www.youtube.com/watch?v=eh3WI46_62c)
-- [🔴 LIVE: Happy Hour / AMA for 4Jun2021](https://www.youtube.com/watch?v=ns4PTldIoqU)
 <!-- YOUTUBE:END -->
 
 ---
