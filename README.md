@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 118: We Need More Silos, Not Less](https://www.devopsparadox.com/episodes/we-need-more-silos-not-less-118/)
 - [DOP 117: Understanding Why Gates Exist in Business](https://www.devopsparadox.com/episodes/understanding-why-gates-exist-in-business-117/)
 - [DOP 116: Why You Should Choose Boring Technology](https://www.devopsparadox.com/episodes/why-you-should-choose-boring-technology-116/)
 - [DOP 115: How Far Are You From No Touch Production?](https://www.devopsparadox.com/episodes/how-far-are-you-from-no-touch-production-115/)
 - [DOP 114: Solving Multitenancy Problems In Kubernetes](https://www.devopsparadox.com/episodes/solving-multitenancy-problems-in-kubernetes-114/)
-- [DOP 113: Are Specifications Still Relevant?](https://www.devopsparadox.com/episodes/are-specifications-still-relevant-113/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
