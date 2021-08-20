@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 20Aug2021](https://www.youtube.com/watch?v=YNcYmuLm4-8)
 - [🔴 Cloud-based Development for Everyone](https://www.youtube.com/watch?v=Avf0RyQZEe0)
 - [🔴 Do You Trust the NSA to Help You Harden Your Kubernetes Cluster?](https://www.youtube.com/watch?v=QyPiJjdtIlw)
 - [🔴 What’s New in Kubernetes 1.22](https://www.youtube.com/watch?v=HFB4znQgPWg)
 - [🔴 API removals for Kubernetes v1.22](https://www.youtube.com/watch?v=yZ3ReLp4vb4)
-- [🔴  AWS Infinidash Is the Next Big Tech Breakthrough](https://www.youtube.com/watch?v=RSxLRKH62L0)
 <!-- YOUTUBE:END -->
 
 ---
