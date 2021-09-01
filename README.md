@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 122: What Are the Costs of a Digital Transformation?](https://www.devopsparadox.com/episodes/what-are-the-costs-of-a-digital-transformation-122/)
 - [DOP 121: Infrastructure As Code Meets Day Two](https://www.devopsparadox.com/episodes/infrastructure-as-code-meets-day-two-121/)
 - [DOP 120: Stop Using the D Word](https://www.devopsparadox.com/episodes/stop-using-the-d-word-120/)
 - [DOP 119: Developer Advocacy or Engineering?](https://www.devopsparadox.com/episodes/developer-advocacy-or-engineering-119/)
 - [DOP 118: We Need More Silos, Not Less](https://www.devopsparadox.com/episodes/we-need-more-silos-not-less-118/)
-- [DOP 117: Understanding Why Gates Exist in Business](https://www.devopsparadox.com/episodes/understanding-why-gates-exist-in-business-117/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
