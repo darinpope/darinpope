@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 3Sep2021](https://www.youtube.com/watch?v=Bt8oaEQBL-4)
+- [🔴 Docker Wants Their Five Dollars](https://www.youtube.com/watch?v=Bt8oaEQBL-4)
 - [🔴 Are You Managing Your Cloud Budget or Is It Managing You?](https://www.youtube.com/watch?v=IGA_OqRm9CE)
 - [🔴 How Often Does Your Company Patch Their Systems?](https://www.youtube.com/watch?v=YNcYmuLm4-8)
 - [🔴 Cloud-based Development for Everyone](https://www.youtube.com/watch?v=Avf0RyQZEe0)
