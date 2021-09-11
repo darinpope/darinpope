@@ -28,8 +28,8 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Why You Should Become a Developer Advocate Right Now](https://www.youtube.com/watch?v=c30eoklxzNA)
 - [🔴 LIVE: Happy Hour / AMA for 10Sep2021](https://www.youtube.com/watch?v=7wpBUkFjcws)
+- [🔴 LIVE: Why You Should Become a Developer Advocate Right Now](https://www.youtube.com/watch?v=c30eoklxzNA)
 - [🔴 Docker Wants Their Five Dollars](https://www.youtube.com/watch?v=Bt8oaEQBL-4)
 - [🔴 Are You Managing Your Cloud Budget or Is It Managing You?](https://www.youtube.com/watch?v=IGA_OqRm9CE)
 - [🔴 How Often Does Your Company Patch Their Systems?](https://www.youtube.com/watch?v=YNcYmuLm4-8)
