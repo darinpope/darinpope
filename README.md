@@ -28,8 +28,8 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 17Sep2021](https://www.youtube.com/watch?v=lJInPEHZnAQ)
-- [🔴 LIVE: Why You Should Become a Developer Advocate Right Now](https://www.youtube.com/watch?v=c30eoklxzNA)
+- [🔴 Is Your Situation Really Technical Debt?](https://www.youtube.com/watch?v=lJInPEHZnAQ)
+- [🔴 Why You Should Become a Developer Advocate Right Now](https://www.youtube.com/watch?v=c30eoklxzNA)
 - [🔴 EKS Anywhere or minikube?](https://www.youtube.com/watch?v=7wpBUkFjcws)
 - [🔴 Docker Wants Their Five Dollars](https://www.youtube.com/watch?v=Bt8oaEQBL-4)
 - [🔴 Are You Managing Your Cloud Budget or Is It Managing You?](https://www.youtube.com/watch?v=IGA_OqRm9CE)
