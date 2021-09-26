@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 24Sep2021](https://www.youtube.com/watch?v=iVKZra8_Gps)
+- [🔴 Let’s Encrypt Root Certificate Expires Sep 30](https://www.youtube.com/watch?v=iVKZra8_Gps)
 - [🔴 Is Your Situation Really Technical Debt?](https://www.youtube.com/watch?v=lJInPEHZnAQ)
 - [🔴 Why You Should Become a Developer Advocate Right Now](https://www.youtube.com/watch?v=c30eoklxzNA)
 - [🔴 EKS Anywhere or minikube?](https://www.youtube.com/watch?v=7wpBUkFjcws)
