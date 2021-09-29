@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 126: What Is Bare Metal in Cloud Computing?](https://www.devopsparadox.com/episodes/what-is-bare-metal-in-cloud-computing-126/)
 - [DOP 125: What Is the Low Code Movement?](https://www.devopsparadox.com/episodes/what-is-the-low-code-movement-125/)
 - [DOP 124: Fake Data Rules the World](https://www.devopsparadox.com/episodes/fake-data-rules-the-world-124/)
 - [DOP 123: Simplifying Microservice Development](https://www.devopsparadox.com/episodes/simplifying-microservice-development-123/)
 - [DOP 122: What Are the Costs of a Digital Transformation?](https://www.devopsparadox.com/episodes/what-are-the-costs-of-a-digital-transformation-122/)
-- [DOP 121: Infrastructure As Code Meets Day Two](https://www.devopsparadox.com/episodes/infrastructure-as-code-meets-day-two-121/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
