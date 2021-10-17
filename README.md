@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 15Oct2021](https://www.youtube.com/watch?v=E0ilnvLWDhE)
+- [🔴 DigitalOcean and Linode Update Their Kubernetes Offerings](https://www.youtube.com/watch?v=E0ilnvLWDhE)
 - [🔴 Introducing VMware Tanzu Community Edition](https://www.youtube.com/watch?v=AU5Ss7qilV8)
 - [🔴 VS Code in the Browser for Everyone](https://www.youtube.com/watch?v=9wccGOwW1uE)
 - [🔴 Let’s Encrypt Root Certificate Expires Sep 30](https://www.youtube.com/watch?v=iVKZra8_Gps)
