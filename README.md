@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 130: Signs of High Work in Progress](https://www.devopsparadox.com/episodes/signs-of-high-work-in-progress-130/)
 - [DOP 129: How to Develop Microservices](https://www.devopsparadox.com/episodes/how-to-develop-microservices-129/)
 - [DOP 128: Securing Your Environments With a Universal Secrets Manager](https://www.devopsparadox.com/episodes/securing-your-environments-with-a-universal-secrets-manager-128/)
 - [DOP 127: Software Development vs Software Delivery](https://www.devopsparadox.com/episodes/software-development-vs-software-delivery-127/)
 - [DOP 126: What Is Bare Metal in Cloud Computing?](https://www.devopsparadox.com/episodes/what-is-bare-metal-in-cloud-computing-126/)
-- [DOP 125: What Is the Low Code Movement?](https://www.devopsparadox.com/episodes/what-is-the-low-code-movement-125/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
