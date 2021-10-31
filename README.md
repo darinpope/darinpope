@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 29Oct2021](https://www.youtube.com/watch?v=jh5Rq8zO17Y)
+- [🔴 Everything New From GitHub Universe 2021](https://www.youtube.com/watch?v=jh5Rq8zO17Y)
 - [🔴 Introducing Pulumi Registry](https://www.youtube.com/watch?v=XoqgciDvZ3Y)
 - [🔴 DigitalOcean and Linode Update Their Kubernetes Offerings](https://www.youtube.com/watch?v=E0ilnvLWDhE)
 - [🔴 Introducing VMware Tanzu Community Edition](https://www.youtube.com/watch?v=AU5Ss7qilV8)
