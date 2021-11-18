@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 133: APIs Are Everything](https://www.devopsparadox.com/episodes/apis-are-everything-133/)
 - [DOP 132: How to Manage a Remote Team](https://www.devopsparadox.com/episodes/how-to-manage-a-remote-team-132/)
 - [DOP 131: The Cloud Skills Shortage Is Worse Than You Think](https://www.devopsparadox.com/episodes/the-cloud-skills-shortage-is-worse-than-you-think-131/)
 - [DOP 130: Signs of High Work in Progress](https://www.devopsparadox.com/episodes/signs-of-high-work-in-progress-130/)
 - [DOP 129: How to Develop Microservices](https://www.devopsparadox.com/episodes/how-to-develop-microservices-129/)
-- [DOP 128: Securing Your Environments With a Universal Secrets Manager](https://www.devopsparadox.com/episodes/securing-your-environments-with-a-universal-secrets-manager-128/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
