@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 26Nov2021](https://www.youtube.com/watch?v=8aWjLOHU6cs)
 - [🔴 GitOps Finally Has an Official Definition](https://www.youtube.com/watch?v=wCUxtLqwBSA)
 - [🔴 Move Over Rook. Here Comes Longhorn.](https://www.youtube.com/watch?v=KjgDpTwIJcE)
 - [🔴 Hashicorp Files for IPO](https://www.youtube.com/watch?v=VOyGuEeJ5xU)
 - [🔴 Everything New From GitHub Universe 2021](https://www.youtube.com/watch?v=jh5Rq8zO17Y)
-- [🔴 Introducing Pulumi Registry](https://www.youtube.com/watch?v=XoqgciDvZ3Y)
 <!-- YOUTUBE:END -->
 
 ---
