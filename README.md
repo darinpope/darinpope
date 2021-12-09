@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 136: Teaching Kubernetes to a New Team Member](https://www.devopsparadox.com/episodes/teaching-kubernetes-to-a-new-team-member-136/)
 - [DOP 135: Migrate Everything to Kubernetes](https://www.devopsparadox.com/episodes/migrate-everything-to-kubernetes-135/)
 - [DOP 134: The True Cost of Open Source](https://www.devopsparadox.com/episodes/the-true-cost-of-open-source-134/)
 - [DOP 133: APIs Are Everything](https://www.devopsparadox.com/episodes/apis-are-everything-133/)
 - [DOP 132: How to Manage a Remote Team](https://www.devopsparadox.com/episodes/how-to-manage-a-remote-team-132/)
-- [DOP 131: The Cloud Skills Shortage Is Worse Than You Think](https://www.devopsparadox.com/episodes/the-cloud-skills-shortage-is-worse-than-you-think-131/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
