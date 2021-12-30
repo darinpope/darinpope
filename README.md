@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 139: Is Markdown Good for Documentation?](https://www.devopsparadox.com/episodes/is-markdown-good-for-documentation-139/)
 - [DOP 138: Great Expectations](https://www.devopsparadox.com/episodes/great-expectations-138/)
 - [DOP 137: Shifting Infrastructure Management Left](https://www.devopsparadox.com/episodes/shifting-infrastructure-management-left-137/)
 - [DOP 136: Teaching Kubernetes to a New Team Member](https://www.devopsparadox.com/episodes/teaching-kubernetes-to-a-new-team-member-136/)
 - [DOP 135: Migrate Everything to Kubernetes](https://www.devopsparadox.com/episodes/migrate-everything-to-kubernetes-135/)
-- [DOP 134: The True Cost of Open Source](https://www.devopsparadox.com/episodes/the-true-cost-of-open-source-134/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
