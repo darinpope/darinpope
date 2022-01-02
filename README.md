@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 31Dec2021](https://www.youtube.com/watch?v=e490khNiI5s)
+- [🔴 Tools, Tools, and More Tools](https://www.youtube.com/watch?v=e490khNiI5s)
 - [🔴 The Giants of Open Source](https://www.youtube.com/watch?v=4nFRKbY_HVE)
 - [🔴 From HCL to HCP](https://www.youtube.com/watch?v=kqH-11A3bMA)
 - [🔴 What Happened at AWS re:Invent This Week?](https://www.youtube.com/watch?v=YiCbE5Lssa4)
