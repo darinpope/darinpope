@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 140: What Every DevOps Should Learn in 2022](https://www.devopsparadox.com/episodes/what-every-devops-should-learn-in-2022-140/)
 - [DOP 139: Is Markdown Good for Documentation?](https://www.devopsparadox.com/episodes/is-markdown-good-for-documentation-139/)
 - [DOP 138: Great Expectations](https://www.devopsparadox.com/episodes/great-expectations-138/)
 - [DOP 137: Shifting Infrastructure Management Left](https://www.devopsparadox.com/episodes/shifting-infrastructure-management-left-137/)
 - [DOP 136: Teaching Kubernetes to a New Team Member](https://www.devopsparadox.com/episodes/teaching-kubernetes-to-a-new-team-member-136/)
-- [DOP 135: Migrate Everything to Kubernetes](https://www.devopsparadox.com/episodes/migrate-everything-to-kubernetes-135/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
