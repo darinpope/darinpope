@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 21Jan2022](https://www.youtube.com/watch?v=1fBgwHcKarY)
+- [🔴 The Problem With Open Source](https://www.youtube.com/watch?v=1fBgwHcKarY)
 - [🔴 How Did We Not Know About Task?](https://www.youtube.com/watch?v=RrVpQ4T548U)
 - [🔴 Tools, Tools, and More Tools](https://www.youtube.com/watch?v=e490khNiI5s)
 - [🔴 The Giants of Open Source](https://www.youtube.com/watch?v=4nFRKbY_HVE)
