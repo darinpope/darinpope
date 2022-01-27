@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 143: How to Get Started With CI/CD](https://www.devopsparadox.com/episodes/how-to-get-started-with-ci-cd-143/)
 - [DOP 142: Do We Need Coding for DevOps?](https://www.devopsparadox.com/episodes/do-we-need-coding-for-devops-142/)
 - [DOP 141: Five Reasons to Leave Your Job](https://www.devopsparadox.com/episodes/five-reasons-to-leave-your-job-141/)
 - [DOP 140: What Every DevOps Should Learn in 2022](https://www.devopsparadox.com/episodes/what-every-devops-should-learn-in-2022-140/)
 - [DOP 139: Is Markdown Good for Documentation?](https://www.devopsparadox.com/episodes/is-markdown-good-for-documentation-139/)
-- [DOP 138: Great Expectations](https://www.devopsparadox.com/episodes/great-expectations-138/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
