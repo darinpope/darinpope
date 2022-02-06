@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 4Feb2022](https://www.youtube.com/watch?v=7IeVhWvX36c)
+- [🔴 Announcing OSM v1.0.0](https://www.youtube.com/watch?v=7IeVhWvX36c)
 - [🔴 A Documentary About Kubernetes Has Been Released](https://www.youtube.com/watch?v=4sRxWzP_yxM)
 - [🔴 The Problem With Open Source](https://www.youtube.com/watch?v=1fBgwHcKarY)
 - [🔴 How Did We Not Know About Task?](https://www.youtube.com/watch?v=RrVpQ4T548U)
