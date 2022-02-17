@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 146: Context Means Everything in Security](https://www.devopsparadox.com/episodes/context-means-everything-in-security-146/)
 - [DOP 145: What Does a DevOps Engineer Do?](https://www.devopsparadox.com/episodes/what-does-a-devops-engineer-do-145/)
 - [DOP 144: Is Open Source Sustainable?](https://www.devopsparadox.com/episodes/is-open-source-sustainable-144/)
 - [DOP 143: How to Get Started With CI/CD](https://www.devopsparadox.com/episodes/how-to-get-started-with-ci-cd-143/)
 - [DOP 142: Do We Need Coding for DevOps?](https://www.devopsparadox.com/episodes/do-we-need-coding-for-devops-142/)
-- [DOP 141: Five Reasons to Leave Your Job](https://www.devopsparadox.com/episodes/five-reasons-to-leave-your-job-141/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
