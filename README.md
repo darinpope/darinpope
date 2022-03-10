@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 149: What Is FinOps?](https://www.devopsparadox.com/episodes/what-is-finops-149/)
 - [DOP 148: Is Kubernetes Ready to Run Databases?](https://www.devopsparadox.com/episodes/is-kubernetes-ready-to-run-databases-148/)
 - [DOP 147: Should You Use a Recruiter When Looking for a Job?](https://www.devopsparadox.com/episodes/should-you-use-a-recruiter-when-looking-for-a-job-147/)
 - [DOP 146: Context Means Everything in Security](https://www.devopsparadox.com/episodes/context-means-everything-in-security-146/)
 - [DOP 145: What Does a DevOps Engineer Do?](https://www.devopsparadox.com/episodes/what-does-a-devops-engineer-do-145/)
-- [DOP 144: Is Open Source Sustainable?](https://www.devopsparadox.com/episodes/is-open-source-sustainable-144/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
