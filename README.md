@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 11Mar2022](https://www.youtube.com/watch?v=ffu7tGtjevU)
+- [🔴 Thoughts on Internal Developer Platforms](https://www.youtube.com/watch?v=ffu7tGtjevU)
 - [🔴 Prebuild Comes to Codespaces](https://www.youtube.com/watch?v=GEh-akb2xZ0)
 - [🔴 Creating Diagrams with Mermaid](https://www.youtube.com/watch?v=1bYVqYhTGVY)
 - [🔴 High-Availability Control Plane Arrives on LKE](https://www.youtube.com/watch?v=PMywehqw_D4)
