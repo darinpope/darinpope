@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 1Apr2022](https://www.youtube.com/watch?v=aAtvVXftw4o)
+- [🔴 Create CI/CD Pipelines With Dagger](https://www.youtube.com/watch?v=aAtvVXftw4o)
 - [🔴 GCP Price Increases](https://www.youtube.com/watch?v=YLUx-9vukBI)
 - [🔴 Backstage Reaches 1.0 And Joins the CNCF Incubator](https://www.youtube.com/watch?v=nl4JFeUW7DU)
 - [🔴 Thoughts on Internal Developer Platforms](https://www.youtube.com/watch?v=ffu7tGtjevU)
