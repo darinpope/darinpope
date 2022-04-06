@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 153: Eliminate Cloud Chaos With Firefly](https://www.devopsparadox.com/episodes/eliminate-cloud-chaos-with-firefly-153/)
 - [DOP 152: An Internal Developer Platform Story](https://www.devopsparadox.com/episodes/an-internal-developer-platform-story-152/)
 - [DOP 151: What Is OpenTelemetry?](https://www.devopsparadox.com/episodes/what-is-opentelemetry-151/)
 - [DOP 150: Diagrams As Code](https://www.devopsparadox.com/episodes/diagrams-as-code-150/)
 - [DOP 149: What Is FinOps?](https://www.devopsparadox.com/episodes/what-is-finops-149/)
-- [DOP 148: Is Kubernetes Ready to Run Databases?](https://www.devopsparadox.com/episodes/is-kubernetes-ready-to-run-databases-148/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
