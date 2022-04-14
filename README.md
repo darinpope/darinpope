@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 8Apr2022](https://www.youtube.com/watch?v=nFYtxlzks5w)
+- [🔴 The 23 Million Dollar Terminal](https://www.youtube.com/watch?v=nFYtxlzks5w)
 - [🔴 Create CI/CD Pipelines With Dagger](https://www.youtube.com/watch?v=aAtvVXftw4o)
 - [🔴 GCP Price Increases](https://www.youtube.com/watch?v=YLUx-9vukBI)
 - [🔴 Backstage Reaches 1.0 And Joins the CNCF Incubator](https://www.youtube.com/watch?v=nl4JFeUW7DU)
