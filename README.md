@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 15Apr2022](https://www.youtube.com/watch?v=PBTXz7djuPQ)
+- [🔴 Puppet Joins Forces With Perforce](https://www.youtube.com/watch?v=PBTXz7djuPQ)
 - [🔴 The 23 Million Dollar Terminal](https://www.youtube.com/watch?v=nFYtxlzks5w)
 - [🔴 Create CI/CD Pipelines With Dagger](https://www.youtube.com/watch?v=aAtvVXftw4o)
 - [🔴 GCP Price Increases](https://www.youtube.com/watch?v=YLUx-9vukBI)
