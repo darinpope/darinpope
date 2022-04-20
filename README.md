@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 155: The Difference Between Projects and Products](https://www.devopsparadox.com/episodes/the-difference-between-projects-and-products-155/)
 - [DOP 154: Reducing Developer Friction](https://www.devopsparadox.com/episodes/reducing-developer-friction-154/)
 - [DOP 153: Eliminate Cloud Chaos With Firefly](https://www.devopsparadox.com/episodes/eliminate-cloud-chaos-with-firefly-153/)
 - [DOP 152: An Internal Developer Platform Story](https://www.devopsparadox.com/episodes/an-internal-developer-platform-story-152/)
 - [DOP 151: What Is OpenTelemetry?](https://www.devopsparadox.com/episodes/what-is-opentelemetry-151/)
-- [DOP 150: Diagrams As Code](https://www.devopsparadox.com/episodes/diagrams-as-code-150/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
