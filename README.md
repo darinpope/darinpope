@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 29Apr2022](https://www.youtube.com/watch?v=ECq0xfVJtQc)
+- [🔴 Istio Heads to the CNCF](https://www.youtube.com/watch?v=ECq0xfVJtQc)
 - [🔴 Kubevirt Becomes a CNCF Incubating Project](https://www.youtube.com/watch?v=zbjSL3jsGno)
 - [🔴 Puppet Joins Forces With Perforce](https://www.youtube.com/watch?v=PBTXz7djuPQ)
 - [🔴 The 23 Million Dollar Terminal](https://www.youtube.com/watch?v=nFYtxlzks5w)
