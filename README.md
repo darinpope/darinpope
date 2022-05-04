@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 157: How to Create a Startup](https://www.devopsparadox.com/episodes/how-to-create-a-startup-157/)
 - [DOP 156: Validate Your API Specifications With Cherrybomb](https://www.devopsparadox.com/episodes/validate-your-api-specifications-with-cherrybomb-156/)
 - [DOP 155: The Difference Between Projects and Products](https://www.devopsparadox.com/episodes/the-difference-between-projects-and-products-155/)
 - [DOP 154: Reducing Developer Friction](https://www.devopsparadox.com/episodes/reducing-developer-friction-154/)
 - [DOP 153: Eliminate Cloud Chaos With Firefly](https://www.devopsparadox.com/episodes/eliminate-cloud-chaos-with-firefly-153/)
-- [DOP 152: An Internal Developer Platform Story](https://www.devopsparadox.com/episodes/an-internal-developer-platform-story-152/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
