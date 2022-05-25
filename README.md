@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 160: I’m New to CI/CD. Where Do I Start?](https://www.devopsparadox.com/episodes/im-new-to-ci-cd-where-do-i-start-160/)
 - [DOP 159: When to Use Kubernetes](https://www.devopsparadox.com/episodes/when-to-use-kubernetes-159/)
 - [DOP 158: Powering Zero Trust With OpenZiti](https://www.devopsparadox.com/episodes/powering-zero-trust-with-openziti-158/)
 - [DOP 157: How to Create a Startup](https://www.devopsparadox.com/episodes/how-to-create-a-startup-157/)
 - [DOP 156: Validate Your API Specifications With Cherrybomb](https://www.devopsparadox.com/episodes/validate-your-api-specifications-with-cherrybomb-156/)
-- [DOP 155: The Difference Between Projects and Products](https://www.devopsparadox.com/episodes/the-difference-between-projects-and-products-155/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
