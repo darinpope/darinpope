@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 27May2022](https://www.youtube.com/watch?v=xfKdYRERq08)
 - [🔴 Taking a Second Look at Docker Desktop](https://www.youtube.com/watch?v=3Slc_L2rNMM)
 - [🔴 Kubernetes 1.24 Ships!](https://www.youtube.com/watch?v=kLCWi9EOec4)
 - [🔴 Istio Heads to the CNCF](https://www.youtube.com/watch?v=ECq0xfVJtQc)
 - [🔴 Kubevirt Becomes a CNCF Incubating Project](https://www.youtube.com/watch?v=zbjSL3jsGno)
-- [🔴 Puppet Joins Forces With Perforce](https://www.youtube.com/watch?v=PBTXz7djuPQ)
 <!-- YOUTUBE:END -->
 
 ---
