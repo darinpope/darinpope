@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 10Jun2022](https://www.youtube.com/watch?v=YwnLb-UeSaU)
+- [🔴 Introducing Gitsign](https://www.youtube.com/watch?v=YwnLb-UeSaU)
 - [🔴 Chainguard announces Series A](https://www.youtube.com/watch?v=cowPOyih8Zo)
 - [🔴 Broadcom to Acquire VMware](https://www.youtube.com/watch?v=xfKdYRERq08)
 - [🔴 Taking a Second Look at Docker Desktop](https://www.youtube.com/watch?v=3Slc_L2rNMM)
