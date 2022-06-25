@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 24Jun2022](https://www.youtube.com/watch?v=2BPEUNis0v0)
+- [🔴 Copilot vs CodeWhisperer](https://www.youtube.com/watch?v=2BPEUNis0v0)
 - [🔴 Grafana OnCall Is Now Open Source](https://www.youtube.com/watch?v=wb1jvO_WTM4)
 - [🔴 Introducing Gitsign](https://www.youtube.com/watch?v=YwnLb-UeSaU)
 - [🔴 Chainguard announces Series A](https://www.youtube.com/watch?v=cowPOyih8Zo)
