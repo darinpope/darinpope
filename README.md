@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 165: Looking Back at KubeCon EU 2022](https://www.devopsparadox.com/episodes/looking-back-at-kubecon-eu-2022-165/)
 - [DOP 164: How To Monitor and Debug Microservices](https://www.devopsparadox.com/episodes/how-to-monitor-and-debug-microservices-164/)
 - [DOP 163: What Is Kubecost?](https://www.devopsparadox.com/episodes/what-is-kubecost-163/)
 - [DOP 162: Performance Testing With k6](https://www.devopsparadox.com/episodes/performance-testing-with-k6-162/)
 - [DOP 161: Why Incidents Are Slowing Down Companies](https://www.devopsparadox.com/episodes/why-incidents-are-slowing-down-companies-161/)
-- [DOP 160: I’m New to CI/CD. Where Do I Start?](https://www.devopsparadox.com/episodes/im-new-to-ci-cd-where-do-i-start-160/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
