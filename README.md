@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 167: How To Secure Kubernetes](https://www.devopsparadox.com/episodes/how-to-secure-kubernetes-167/)
 - [DOP 166: Are in Person Events Dead?](https://www.devopsparadox.com/episodes/are-in-person-events-dead-166/)
 - [DOP 165: Looking Back at KubeCon EU 2022](https://www.devopsparadox.com/episodes/looking-back-at-kubecon-eu-2022-165/)
 - [DOP 164: How To Monitor and Debug Microservices](https://www.devopsparadox.com/episodes/how-to-monitor-and-debug-microservices-164/)
 - [DOP 163: What Is Kubecost?](https://www.devopsparadox.com/episodes/what-is-kubecost-163/)
-- [DOP 162: Performance Testing With k6](https://www.devopsparadox.com/episodes/performance-testing-with-k6-162/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
