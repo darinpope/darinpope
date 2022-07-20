@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 168: Should You Use Docker Desktop in 2022?](https://www.devopsparadox.com/episodes/should-you-use-docker-desktop-in-2022-168/)
 - [DOP 167: How To Secure Kubernetes](https://www.devopsparadox.com/episodes/how-to-secure-kubernetes-167/)
 - [DOP 166: Are in Person Events Dead?](https://www.devopsparadox.com/episodes/are-in-person-events-dead-166/)
 - [DOP 165: Looking Back at KubeCon EU 2022](https://www.devopsparadox.com/episodes/looking-back-at-kubecon-eu-2022-165/)
 - [DOP 164: How To Monitor and Debug Microservices](https://www.devopsparadox.com/episodes/how-to-monitor-and-debug-microservices-164/)
-- [DOP 163: What Is Kubecost?](https://www.devopsparadox.com/episodes/what-is-kubecost-163/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
