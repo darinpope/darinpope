@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 22Jul2022](https://www.youtube.com/watch?v=Tdp8a6zHWQ0)
 - [🔴 GitOps Success Checklist](https://www.youtube.com/watch?v=BBYbrD5iJAo)
 - [🔴 What Is Cloud Repatriation?](https://www.youtube.com/watch?v=E_jEIXGoaqc)
 - [🔴 Copilot vs CodeWhisperer](https://www.youtube.com/watch?v=2BPEUNis0v0)
 - [🔴 Grafana OnCall Is Now Open Source](https://www.youtube.com/watch?v=wb1jvO_WTM4)
-- [🔴 Introducing Gitsign](https://www.youtube.com/watch?v=YwnLb-UeSaU)
 <!-- YOUTUBE:END -->
 
 ---
