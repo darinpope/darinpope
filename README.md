@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 12Aug2022](https://www.youtube.com/watch?v=zQfZd8f17CA)
 - [🔴 GitLab and Dormant Projects](https://www.youtube.com/watch?v=xFBbqWgMLIM)
 - [🔴 GitHub Projects Is GA](https://www.youtube.com/watch?v=MSuI-Vd6HFs)
 - [🔴 Kyverno Moves From Sandbox to Incubating](https://www.youtube.com/watch?v=Tdp8a6zHWQ0)
 - [🔴 GitOps Success Checklist](https://www.youtube.com/watch?v=BBYbrD5iJAo)
-- [🔴 What Is Cloud Repatriation?](https://www.youtube.com/watch?v=E_jEIXGoaqc)
 <!-- YOUTUBE:END -->
 
 ---
