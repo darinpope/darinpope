@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 19Aug2022](https://www.youtube.com/watch?v=hsMSWmiJWWM)
+- [🔴 External Secrets Operator Accepted Into the CNCF Sandbox](https://www.youtube.com/watch?v=hsMSWmiJWWM)
 - [🔴 You Probably Code Less Than an Hour a Day](https://www.youtube.com/watch?v=zQfZd8f17CA)
 - [🔴 GitLab and Dormant Projects](https://www.youtube.com/watch?v=xFBbqWgMLIM)
 - [🔴 GitHub Projects Is GA](https://www.youtube.com/watch?v=MSuI-Vd6HFs)
