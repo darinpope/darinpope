@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 173: Drag and Drop Deployments for Kubernetes With Harpoon](https://www.devopsparadox.com/episodes/drag-and-drop-deployments-for-kubernetes-with-harpoon-173/)
 - [DOP 172: Dynamically Manage Cloud Costs With Zesty](https://www.devopsparadox.com/episodes/dynamically-manage-cloud-costs-with-zesty-172/)
 - [DOP 171: How Many Hours Do You Code per Day?](https://www.devopsparadox.com/episodes/how-many-hours-do-you-code-per-day-171/)
 - [DOP 170: Running Containers at the Edge](https://www.devopsparadox.com/episodes/running-containers-at-the-edge-170/)
 - [DOP 169: How To Reduce Cloud Development Complexity](https://www.devopsparadox.com/episodes/how-to-reduce-cloud-development-complexity-169/)
-- [DOP 168: Should You Use Docker Desktop in 2022?](https://www.devopsparadox.com/episodes/should-you-use-docker-desktop-in-2022-168/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
