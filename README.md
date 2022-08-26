@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 26Aug2022](https://www.youtube.com/watch?v=mfphdZKo4Uo)
 - [🔴 External Secrets Operator Accepted Into the CNCF Sandbox](https://www.youtube.com/watch?v=hsMSWmiJWWM)
 - [🔴 You Probably Code Less Than an Hour a Day](https://www.youtube.com/watch?v=zQfZd8f17CA)
 - [🔴 GitLab and Dormant Projects](https://www.youtube.com/watch?v=xFBbqWgMLIM)
 - [🔴 GitHub Projects Is GA](https://www.youtube.com/watch?v=MSuI-Vd6HFs)
-- [🔴 Kyverno Moves From Sandbox to Incubating](https://www.youtube.com/watch?v=Tdp8a6zHWQ0)
 <!-- YOUTUBE:END -->
 
 ---
