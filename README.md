@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 9Sep2022](https://www.youtube.com/watch?v=EysqqKxi7I4)
+- [🔴 Hacktoberfest Is Coming](https://www.youtube.com/watch?v=EysqqKxi7I4)
 - [🔴 Heroku Eliminates Free Tier](https://www.youtube.com/watch?v=mfphdZKo4Uo)
 - [🔴 External Secrets Operator Accepted Into the CNCF Sandbox](https://www.youtube.com/watch?v=hsMSWmiJWWM)
 - [🔴 You Probably Code Less Than an Hour a Day](https://www.youtube.com/watch?v=zQfZd8f17CA)
