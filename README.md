@@ -37,8 +37,6 @@
 
 ---
 
-<img align="left" alt="darinpope's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=darinpope&show_icons=true&hide_border=true" />
-
 
 [website]: https://www.darinpope.com/
 [twitter]: https://twitter.com/darinpope
