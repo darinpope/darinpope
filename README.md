@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 176: Critical Skills That Every Engineer Should Master](https://www.devopsparadox.com/episodes/critical-skills-that-every-engineer-should-master-176/)
 - [DOP 175: Applying DevOps Principles to Low-Code and No-Code Applications](https://www.devopsparadox.com/episodes/applying-devops-principles-to-low-code-and-no-code-applications-175/)
 - [DOP 174: Security Concerns in Low-Code and No-Code Applications](https://www.devopsparadox.com/episodes/security-concerns-in-low-code-and-no-code-applications-174/)
 - [DOP 173: Drag and Drop Deployments for Kubernetes With Harpoon](https://www.devopsparadox.com/episodes/drag-and-drop-deployments-for-kubernetes-with-harpoon-173/)
 - [DOP 172: Dynamically Manage Cloud Costs With Zesty](https://www.devopsparadox.com/episodes/dynamically-manage-cloud-costs-with-zesty-172/)
-- [DOP 171: How Many Hours Do You Code per Day?](https://www.devopsparadox.com/episodes/how-many-hours-do-you-code-per-day-171/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
