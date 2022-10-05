@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 179: What Are Service Level Objectives?](https://www.devopsparadox.com/episodes/what-are-service-level-objectives-179/)
 - [DOP 178: Kubernetes Observability Using eBPF](https://www.devopsparadox.com/episodes/kubernetes-observability-using-ebpf-178/)
 - [DOP 177: How To Modernize Legacy Applications](https://www.devopsparadox.com/episodes/how-to-modernize-legacy-applications-177/)
 - [DOP 176: Critical Skills That Every Engineer Should Master](https://www.devopsparadox.com/episodes/critical-skills-that-every-engineer-should-master-176/)
 - [DOP 175: Applying DevOps Principles to Low-Code and No-Code Applications](https://www.devopsparadox.com/episodes/applying-devops-principles-to-low-code-and-no-code-applications-175/)
-- [DOP 174: Security Concerns in Low-Code and No-Code Applications](https://www.devopsparadox.com/episodes/security-concerns-in-low-code-and-no-code-applications-174/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
