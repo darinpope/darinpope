@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 7Oct2022](https://www.youtube.com/watch?v=RJV4Of6oOSE)
 - [🔴 Vagrant Moving From Ruby To Go](https://www.youtube.com/watch?v=fYrPeeG-Qgo)
 - [🔴 Viktor Stuck in an Airport](https://www.youtube.com/watch?v=k0GjZSpoJGo)
 - [🔴 Hacktoberfest Is Coming](https://www.youtube.com/watch?v=EysqqKxi7I4)
 - [🔴 Heroku Eliminates Free Tier](https://www.youtube.com/watch?v=mfphdZKo4Uo)
-- [🔴 External Secrets Operator Accepted Into the CNCF Sandbox](https://www.youtube.com/watch?v=hsMSWmiJWWM)
 <!-- YOUTUBE:END -->
 
 ---
