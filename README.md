@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 21Oct2022](https://www.youtube.com/watch?v=hNTIlMSV7mI)
 - [🔴 Getting Ready for KubeCon NA 2022](https://www.youtube.com/watch?v=IeYH7dUqV-Y)
 - [🔴 2022 Accelerate State of DevOps Report](https://www.youtube.com/watch?v=RJV4Of6oOSE)
 - [🔴 Vagrant Moving From Ruby To Go](https://www.youtube.com/watch?v=fYrPeeG-Qgo)
 - [🔴 Viktor Stuck in an Airport](https://www.youtube.com/watch?v=k0GjZSpoJGo)
-- [🔴 Hacktoberfest Is Coming](https://www.youtube.com/watch?v=EysqqKxi7I4)
 <!-- YOUTUBE:END -->
 
 ---
