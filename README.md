@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 182: Why You Should Start a Side Project](https://www.devopsparadox.com/episodes/why-you-should-start-a-side-project-182/)
 - [DOP 181: Monitoring Kubernetes With Kubevious](https://www.devopsparadox.com/episodes/monitoring-kubernetes-with-kubevious-181/)
 - [DOP 180: What is AIOps?](https://www.devopsparadox.com/episodes/what-is-aiops-180/)
 - [DOP 179: What Are Service Level Objectives?](https://www.devopsparadox.com/episodes/what-are-service-level-objectives-179/)
 - [DOP 178: Kubernetes Observability Using eBPF](https://www.devopsparadox.com/episodes/kubernetes-observability-using-ebpf-178/)
-- [DOP 177: How To Modernize Legacy Applications](https://www.devopsparadox.com/episodes/how-to-modernize-legacy-applications-177/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
