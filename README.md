@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 185: What Is Cost Optimization in AWS?](https://www.devopsparadox.com/episodes/what-is-cost-optimization-in-aws-185/)
 - [DOP 184: How To Reduce Cloud Costs Using Tenacity](https://www.devopsparadox.com/episodes/how-to-reduce-cloud-costs-using-tenacity-184/)
 - [DOP 183: Viktor’s Review of KubeCon 2022 Detroit](https://www.devopsparadox.com/episodes/viktors-review-of-kubecon-2022-detroit-183/)
 - [DOP 182: Why You Should Start a Side Project](https://www.devopsparadox.com/episodes/why-you-should-start-a-side-project-182/)
 - [DOP 181: Monitoring Kubernetes With Kubevious](https://www.devopsparadox.com/episodes/monitoring-kubernetes-with-kubevious-181/)
-- [DOP 180: What is AIOps?](https://www.devopsparadox.com/episodes/what-is-aiops-180/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
