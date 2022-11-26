@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 25Nov2022](https://www.youtube.com/watch?v=xGpQ06ElffI)
+- [🔴 Finch Enters the Container Tooling War](https://www.youtube.com/watch?v=xGpQ06ElffI)
 - [🔴 Kubernetes the Much Harder Way](https://www.youtube.com/watch?v=KEmHEDIABrs)
 - [🔴 The Rise of the Cloud IDEs](https://www.youtube.com/watch?v=UkMOPxRMUtQ)
 - [🔴 Twas the Week Before KubeCon](https://www.youtube.com/watch?v=hNTIlMSV7mI)
