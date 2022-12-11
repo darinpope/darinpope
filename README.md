@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 9Dec2022](https://www.youtube.com/watch?v=Ipa9Wv_ULP4)
+- [🔴 Argo and Flux Have Graduated](https://www.youtube.com/watch?v=Ipa9Wv_ULP4)
 - [🔴 Finch Enters the Container Tooling War](https://www.youtube.com/watch?v=xGpQ06ElffI)
 - [🔴 Kubernetes the Much Harder Way](https://www.youtube.com/watch?v=KEmHEDIABrs)
 - [🔴 The Rise of the Cloud IDEs](https://www.youtube.com/watch?v=UkMOPxRMUtQ)
