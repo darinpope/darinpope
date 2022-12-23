@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 23Dec2022](https://www.youtube.com/watch?v=v8nA-jaHfG4)
 - [🔴 Track Leaked Secrets in Public GitHub Repositories](https://www.youtube.com/watch?v=y5UCyomjUX0)
 - [🔴 Argo and Flux Have Graduated](https://www.youtube.com/watch?v=Ipa9Wv_ULP4)
 - [🔴 Finch Enters the Container Tooling War](https://www.youtube.com/watch?v=xGpQ06ElffI)
 - [🔴 Kubernetes the Much Harder Way](https://www.youtube.com/watch?v=KEmHEDIABrs)
-- [🔴 The Rise of the Cloud IDEs](https://www.youtube.com/watch?v=UkMOPxRMUtQ)
 <!-- YOUTUBE:END -->
 
 ---
