@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 192: What Every DevOps Should Learn in 2023](https://www.devopsparadox.com/episodes/what-every-devops-should-learn-in-2023-192/)
 - [DOP 191: Looking Back on Our 2022 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2022-predictions-191/)
 - [DOP 190: Have You Started Your Shopping Yet?](https://www.devopsparadox.com/episodes/have-you-started-your-shopping-yet-190/)
 - [DOP 189: Code Anywhere on Any Device With Gitpod](https://www.devopsparadox.com/episodes/code-anywhere-on-any-device-with-gitpod-189/)
 - [DOP 188: Foster a Culture of Resilience With Steadybit](https://www.devopsparadox.com/episodes/foster-a-culture-of-resilience-with-steadybit-188/)
-- [DOP 187: Simplify Testing With Testcontainers](https://www.devopsparadox.com/episodes/simplify-testing-with-testcontainers-187/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
