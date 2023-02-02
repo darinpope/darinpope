@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 196: Simplifying Performance Optimization Using Granulate](https://www.devopsparadox.com/episodes/simplifying-performance-optimization-using-granulate-196/)
 - [DOP 195: Why Do Companies Not Replace Legacy Systems?](https://www.devopsparadox.com/episodes/why-do-companies-not-replace-legacy-systems-195/)
 - [DOP 194: How To Write Test Cases for Microservices](https://www.devopsparadox.com/episodes/how-to-write-test-cases-for-microservices-194/)
 - [DOP 193: Automatic AI-Powered Database Tuning Using OtterTune](https://www.devopsparadox.com/episodes/automatic-ai-powered-database-tuning-using-ottertune-193/)
 - [DOP 192: What Every DevOps Should Learn in 2023](https://www.devopsparadox.com/episodes/what-every-devops-should-learn-in-2023-192/)
-- [DOP 191: Looking Back on Our 2022 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2022-predictions-191/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
