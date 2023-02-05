@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 3Feb2023](https://www.youtube.com/watch?v=9ZSrUY3XZVM)
+- [🔴 How Kubernetes Is Being Used at Chick-fil-A](https://www.youtube.com/watch?v=9ZSrUY3XZVM)
 - [🔴 Kubescape Accepted Into the CNCF](https://www.youtube.com/watch?v=PVNRFDgaL3o)
 - [🔴 Kured Donated to the CNCF](https://www.youtube.com/watch?v=DVCkDfnPRws)
 - [🔴 Single Node Clusters on Amazon EKS Anywhere](https://www.youtube.com/watch?v=v8nA-jaHfG4)
