@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 3Mar2023](https://www.youtube.com/watch?v=Kq8r1EeYio8)
 - [🔴 Amazon EKS Now Supports Kubernetes Version 1.25](https://www.youtube.com/watch?v=ddzrn59VQ3k)
 - [🔴 Chainguard Image Now Available for Kubectl](https://www.youtube.com/watch?v=SCjg57rTpWo)
 - [🔴 How Kubernetes Is Being Used at Chick-fil-A](https://www.youtube.com/watch?v=9ZSrUY3XZVM)
 - [🔴 Kubescape Accepted Into the CNCF](https://www.youtube.com/watch?v=PVNRFDgaL3o)
-- [🔴 Kured Donated to the CNCF](https://www.youtube.com/watch?v=DVCkDfnPRws)
 <!-- YOUTUBE:END -->
 
 ---
