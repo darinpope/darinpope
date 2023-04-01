@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 31Mar2023](https://www.youtube.com/watch?v=QtG5214G9i4)
+- [🔴 Should AI Be Your Pair Programming Partner?](https://www.youtube.com/watch?v=QtG5214G9i4)
 - [🔴 Using Tekton To Get to SLSA Level 2](https://www.youtube.com/watch?v=US1rFPJlrBw)
 - [🔴 Millions Wasted on Kubernetes Resources](https://www.youtube.com/watch?v=Kq8r1EeYio8)
 - [🔴 Amazon EKS Now Supports Kubernetes Version 1.25](https://www.youtube.com/watch?v=ddzrn59VQ3k)
