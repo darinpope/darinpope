@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 205: Thoughts on Digital Twins and Custom Silicon](https://www.devopsparadox.com/episodes/thoughts-on-digital-twins-and-custom-silicon-205/)
 - [DOP 204: Transform Data From Managed to Actionable With Rivery](https://www.devopsparadox.com/episodes/transform-data-from-managed-to-actionable-with-rivery-204/)
 - [DOP 203: Dealing With Flaky Tests and Broken Builds With Aviator](https://www.devopsparadox.com/episodes/dealing-with-flaky-tests-and-broken-builds-with-aviator-203/)
 - [DOP 202: Go From Docker Compose to Kubernetes Using Shipyard](https://www.devopsparadox.com/episodes/go-from-docker-compose-to-kubernetes-using-shipyard-202/)
 - [DOP 201: Getting to the Root Cause With Zebrium](https://www.devopsparadox.com/episodes/getting-to-the-root-cause-with-zebrium-201/)
-- [DOP 200: From Digital Twins to Management – A Conversation With Patrick Debois](https://www.devopsparadox.com/episodes/from-digital-twins-to-management-a-conversation-with-patrick-debois-200/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
