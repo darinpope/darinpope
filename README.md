@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 14Apr2023](https://www.youtube.com/watch?v=vunX1ps726w)
+- [🔴 Kubernetes 1.27 has arrived!](https://www.youtube.com/watch?v=vunX1ps726w)
 - [🔴 Autopilot Is Now GKE’s Default Mode of Operation](https://www.youtube.com/watch?v=pVE-utGSXkU)
 - [🔴 Should AI Be Your Pair Programming Partner?](https://www.youtube.com/watch?v=QtG5214G9i4)
 - [🔴 Using Tekton To Get to SLSA Level 2](https://www.youtube.com/watch?v=US1rFPJlrBw)
