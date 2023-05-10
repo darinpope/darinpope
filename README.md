@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 210: Mastering Database Scalability with PlanetScale](https://www.devopsparadox.com/episodes/mastering-database-scalability-with-planetscale-210/)
 - [DOP 209: Move From Multicloud to Polycloud With Macrometa](https://www.devopsparadox.com/episodes/move-from-multicloud-to-polycloud-with-macrometa-209/)
 - [DOP 208: KubeCon EU 2023 Review](https://www.devopsparadox.com/episodes/kubecon-eu-2023-review-208/)
 - [DOP 207: What Did It Take To Bring SQreamDB to SaaS?](https://www.devopsparadox.com/episodes/what-did-it-take-to-bring-sqreamdb-to-saas-207/)
 - [DOP 206: Open Source Supply Chain Security With Pyrsia](https://www.devopsparadox.com/episodes/open-source-supply-chain-security-with-pyrsia-206/)
-- [DOP 205: Thoughts on Digital Twins and Custom Silicon](https://www.devopsparadox.com/episodes/thoughts-on-digital-twins-and-custom-silicon-205/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
