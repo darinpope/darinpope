@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 212: Build and Release SaaS Pricing Changes Faster With Stigg](https://www.devopsparadox.com/episodes/build-and-release-saas-pricing-changes-faster-with-stigg-212/)
 - [DOP 211: Learning To Code in the Age of AI](https://www.devopsparadox.com/episodes/learning-to-code-in-the-age-of-ai-211/)
 - [DOP 210: Mastering Database Scalability with PlanetScale](https://www.devopsparadox.com/episodes/mastering-database-scalability-with-planetscale-210/)
 - [DOP 209: Move From Multicloud to Polycloud With Macrometa](https://www.devopsparadox.com/episodes/move-from-multicloud-to-polycloud-with-macrometa-209/)
 - [DOP 208: KubeCon EU 2023 Review](https://www.devopsparadox.com/episodes/kubecon-eu-2023-review-208/)
-- [DOP 207: What Did It Take To Bring SQreamDB to SaaS?](https://www.devopsparadox.com/episodes/what-did-it-take-to-bring-sqreamdb-to-saas-207/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
