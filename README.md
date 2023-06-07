@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 214: Taking SQL to the Next Level With Materialize](https://www.devopsparadox.com/episodes/taking-sql-to-the-next-level-with-materialize-214/)
 - [DOP 213: Unlocking the Secrets to a Successful Product Launch](https://www.devopsparadox.com/episodes/unlocking-the-secrets-to-a-successful-product-launch-213/)
 - [DOP 212: Build and Release SaaS Pricing Changes Faster With Stigg](https://www.devopsparadox.com/episodes/build-and-release-saas-pricing-changes-faster-with-stigg-212/)
 - [DOP 211: Learning To Code in the Age of AI](https://www.devopsparadox.com/episodes/learning-to-code-in-the-age-of-ai-211/)
 - [DOP 210: Mastering Database Scalability with PlanetScale](https://www.devopsparadox.com/episodes/mastering-database-scalability-with-planetscale-210/)
-- [DOP 209: Move From Multicloud to Polycloud With Macrometa](https://www.devopsparadox.com/episodes/move-from-multicloud-to-polycloud-with-macrometa-209/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
