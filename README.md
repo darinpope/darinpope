@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 9Jun2023](https://www.youtube.com/watch?v=2gWGoccBIMA)
+- [🔴 Happy Birthday to Amazon EKS](https://www.youtube.com/watch?v=2gWGoccBIMA)
 - [🔴 Cloud Dependencies Are Not the Problem. You Are.](https://www.youtube.com/watch?v=jpv-rKqPJRs)
 - [🔴 Amazon EKS Now Supports 1.27](https://www.youtube.com/watch?v=GJznbcTdph4)
 - [🔴 FOCUSing on FinOps](https://www.youtube.com/watch?v=2O7Mwy5WoM4)
