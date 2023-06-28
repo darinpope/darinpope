@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 217: Learning eBPF With Liz Rice](https://www.devopsparadox.com/episodes/learning-ebpf-with-liz-rice-217/)
 - [DOP 216: Simplify Microservice Development With Signadot](https://www.devopsparadox.com/episodes/simplify-microservice-development-with-signadot-216/)
 - [DOP 215: Reviewing Thoughtworks Technology Radar Volume 28](https://www.devopsparadox.com/episodes/reviewing-thoughtworks-technology-radar-volume-28-215/)
 - [DOP 214: Taking SQL to the Next Level With Materialize](https://www.devopsparadox.com/episodes/taking-sql-to-the-next-level-with-materialize-214/)
 - [DOP 213: Unlocking the Secrets to a Successful Product Launch](https://www.devopsparadox.com/episodes/unlocking-the-secrets-to-a-successful-product-launch-213/)
-- [DOP 212: Build and Release SaaS Pricing Changes Faster With Stigg](https://www.devopsparadox.com/episodes/build-and-release-saas-pricing-changes-faster-with-stigg-212/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
