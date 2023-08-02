@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 222: Finding Performance Bottlenecks With Ddosify](https://www.devopsparadox.com/episodes/finding-performance-bottlenecks-with-ddosify-222/)
 - [DOP 221: Treat Security Like a Bug With Seemplicity](https://www.devopsparadox.com/episodes/treat-security-like-a-bug-with-seemplicity-221/)
 - [DOP 220: What Are the Top Challenges for Implementing DevOps?](https://www.devopsparadox.com/episodes/what-are-the-top-challenges-for-implementing-devops-220/)
 - [DOP 219: What Is NoSQL?](https://www.devopsparadox.com/episodes/what-is-nosql-219/)
 - [DOP 218: Continuous Testing With BlazeMeter](https://www.devopsparadox.com/episodes/continuous-testing-with-blazemeter-218/)
-- [DOP 217: Learning eBPF With Liz Rice](https://www.devopsparadox.com/episodes/learning-ebpf-with-liz-rice-217/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
