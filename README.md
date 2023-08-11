@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 11Aug2023](https://www.youtube.com/watch?v=NdNVjSS0zWU)
 - [🔴 Breaking Free of Scrum Ceremonies](https://www.youtube.com/watch?v=UGb1hh38RfE)
 - [🔴 How Can We Trust GitHub Copilot?](https://www.youtube.com/watch?v=-RjPpxVRAAM)
 - [🔴 KubeVirt v1.0 has landed!](https://www.youtube.com/watch?v=f0Kdp9BdNo8)
 - [🔴 Stack Overflow 2023 Developer Survey](https://www.youtube.com/watch?v=Wkev8_Gaqo0)
-- [🔴 Happy Birthday to Amazon EKS](https://www.youtube.com/watch?v=2gWGoccBIMA)
 <!-- YOUTUBE:END -->
 
 ---
