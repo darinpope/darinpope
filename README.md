@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 18Aug2023](https://www.youtube.com/watch?v=xgjn4qEdPqI)
+- [🔴 The Emergence of OpenTF](https://www.youtube.com/watch?v=xgjn4qEdPqI)
 - [🔴 HashiCorp Adopts Business Source License](https://www.youtube.com/watch?v=NdNVjSS0zWU)
 - [🔴 Breaking Free of Scrum Ceremonies](https://www.youtube.com/watch?v=UGb1hh38RfE)
 - [🔴 How Can We Trust GitHub Copilot?](https://www.youtube.com/watch?v=-RjPpxVRAAM)
