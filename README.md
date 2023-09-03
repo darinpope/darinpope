@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 1Sep2023](https://www.youtube.com/watch?v=jLcImJnvVp0)
+- [🔴 Why We Are Not Supporting OpenTF](https://www.youtube.com/watch?v=jLcImJnvVp0)
 - [🔴 OpenTF Announces Fork of Terraform](https://www.youtube.com/watch?v=tccd8lvDE_8)
 - [🔴 The Emergence of OpenTF](https://www.youtube.com/watch?v=xgjn4qEdPqI)
 - [🔴 HashiCorp Adopts Business Source License](https://www.youtube.com/watch?v=NdNVjSS0zWU)
