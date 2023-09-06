@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 227: Layoff-Proofing Your Career](https://www.devopsparadox.com/episodes/layoff-proofing-your-career-227/)
 - [DOP 226: When Cloud Services Let Us Down](https://www.devopsparadox.com/episodes/when-cloud-services-let-us-down-226/)
 - [DOP 225: The Rise of Kubernetes: From Google to Global Phenomenon](https://www.devopsparadox.com/episodes/the-rise-of-kubernetes-from-google-to-global-phenomenon-225/)
 - [DOP 224: Are Developer Bootcamps Worth It?](https://www.devopsparadox.com/episodes/are-developer-bootcamps-worth-it-224/)
 - [DOP 223: Vendors and Communities Working Together in Open Source](https://www.devopsparadox.com/episodes/vendors-and-communities-working-together-in-open-source-223/)
-- [DOP 222: Finding Performance Bottlenecks With Ddosify](https://www.devopsparadox.com/episodes/finding-performance-bottlenecks-with-ddosify-222/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
