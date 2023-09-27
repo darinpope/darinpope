@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 230: Simplifying End-to-End Encryption With Smallstep](https://www.devopsparadox.com/episodes/simplifying-end-to-end-encryption-with-smallstep-230/)
 - [DOP 229: The Evolution of Installing Applications into Kubernetes](https://www.devopsparadox.com/episodes/the-evolution-of-installing-applications-into-kubernetes-229/)
 - [DOP 228: The Customer Is the True North Star](https://www.devopsparadox.com/episodes/the-customer-is-the-true-north-star-228/)
 - [DOP 227: Layoff-Proofing Your Career](https://www.devopsparadox.com/episodes/layoff-proofing-your-career-227/)
 - [DOP 226: When Cloud Services Let Us Down](https://www.devopsparadox.com/episodes/when-cloud-services-let-us-down-226/)
-- [DOP 225: The Rise of Kubernetes: From Google to Global Phenomenon](https://www.devopsparadox.com/episodes/the-rise-of-kubernetes-from-google-to-global-phenomenon-225/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
