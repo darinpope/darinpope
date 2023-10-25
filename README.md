@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 234: Better Bare Metal Infrastructure Management With RackN](https://www.devopsparadox.com/episodes/better-bare-metal-infrastructure-management-with-rackn-234/)
 - [DOP 233: Upskill Your Knowledge Using Wilco](https://www.devopsparadox.com/episodes/upskill-your-knowledge-using-wilco-233/)
 - [DOP 232: Real-Time Application Security Using Arnica](https://www.devopsparadox.com/episodes/real-time-application-security-using-arnica-232/)
 - [DOP 231: Automating API Development With Hasura](https://www.devopsparadox.com/episodes/automating-api-development-with-hasura-231/)
 - [DOP 230: Simplifying End-to-End Encryption With Smallstep](https://www.devopsparadox.com/episodes/simplifying-end-to-end-encryption-with-smallstep-230/)
-- [DOP 229: The Evolution of Installing Applications into Kubernetes](https://www.devopsparadox.com/episodes/the-evolution-of-installing-applications-into-kubernetes-229/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
