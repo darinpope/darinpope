@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 27Oct2023](https://www.youtube.com/watch?v=DHnDNxl2_4Q)
 - [🔴 Cilium Graduates at the CNCF](https://www.youtube.com/watch?v=ryeH0rWhTAA)
 - [🔴 How Safe Are GitHub Actions?](https://www.youtube.com/watch?v=c3YNE71jeSY)
 - [🔴 Why We Are Not Supporting OpenTF](https://www.youtube.com/watch?v=jLcImJnvVp0)
 - [🔴 OpenTF Announces Fork of Terraform](https://www.youtube.com/watch?v=tccd8lvDE_8)
-- [🔴 The Emergence of OpenTF](https://www.youtube.com/watch?v=xgjn4qEdPqI)
 <!-- YOUTUBE:END -->
 
 ---
