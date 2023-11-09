@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 236: Efficient Cloud Cost Optimizations with Profisea Labs](https://www.devopsparadox.com/episodes/efficient-cloud-cost-optimizations-with-profisea-labs-236/)
 - [DOP 235: Diving Into Platform Engineering Trends With Humanitec](https://www.devopsparadox.com/episodes/diving-into-platform-engineering-trends-with-humanitec-235/)
 - [DOP 234: Better Bare Metal Infrastructure Management With RackN](https://www.devopsparadox.com/episodes/better-bare-metal-infrastructure-management-with-rackn-234/)
 - [DOP 233: Upskill Your Knowledge Using Wilco](https://www.devopsparadox.com/episodes/upskill-your-knowledge-using-wilco-233/)
 - [DOP 232: Real-Time Application Security Using Arnica](https://www.devopsparadox.com/episodes/real-time-application-security-using-arnica-232/)
-- [DOP 231: Automating API Development With Hasura](https://www.devopsparadox.com/episodes/automating-api-development-with-hasura-231/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
