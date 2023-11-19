@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 17Nov2023](https://www.youtube.com/watch?v=84-k1sD5uxo)
+- [🔴 The Next Generation of the Command Line](https://www.youtube.com/watch?v=84-k1sD5uxo)
 - [🔴 No More Open Source Companies in Silicon Valley?](https://www.youtube.com/watch?v=DHnDNxl2_4Q)
 - [🔴 Cilium Graduates at the CNCF](https://www.youtube.com/watch?v=ryeH0rWhTAA)
 - [🔴 How Safe Are GitHub Actions?](https://www.youtube.com/watch?v=c3YNE71jeSY)
