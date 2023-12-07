@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 240: Supercharging Developer Workflows with Simplified Platform Engineering](https://www.devopsparadox.com/episodes/supercharging-developer-workflows-with-simplified-platform-engineering-240/)
 - [DOP 239: What&#39;s in Your From Line? A Conversation With Chainguard](https://www.devopsparadox.com/episodes/whats-in-your-from-line-a-conversation-with-chainguard-239/)
 - [DOP 238: Unlocking the Potential of Modern Architectures Using Service Mesh](https://www.devopsparadox.com/episodes/unlocking-the-potential-of-modern-architectures-using-service-mesh-238/)
 - [DOP 237: KubeCon North America 2023 Review](https://www.devopsparadox.com/episodes/kubecon-north-america-2023-review-237/)
 - [DOP 236: Efficient Cloud Cost Optimizations with Profisea Labs](https://www.devopsparadox.com/episodes/efficient-cloud-cost-optimizations-with-profisea-labs-236/)
-- [DOP 235: Diving Into Platform Engineering Trends With Humanitec](https://www.devopsparadox.com/episodes/diving-into-platform-engineering-trends-with-humanitec-235/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
