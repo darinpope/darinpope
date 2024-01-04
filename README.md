@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 244: What Every DevOps Should Learn in 2024](https://www.devopsparadox.com/episodes/what-every-devops-should-learn-in-2024-244/)
 - [DOP 243: Looking Back on Our 2023 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2023-predictions-243/)
 - [DOP 242: Take a Break. That’s the Message.](https://www.devopsparadox.com/episodes/take-a-break-thats-the-message-242/)
 - [DOP 241: From Restaurant Server to KubeCon Keynote in Under 4 Years](https://www.devopsparadox.com/episodes/from-restaurant-server-to-kubecon-keynote-in-under-4-years-241/)
 - [DOP 240: Supercharging Developer Workflows with Simplified Platform Engineering](https://www.devopsparadox.com/episodes/supercharging-developer-workflows-with-simplified-platform-engineering-240/)
-- [DOP 239: What&#39;s in Your From Line? A Conversation With Chainguard](https://www.devopsparadox.com/episodes/whats-in-your-from-line-a-conversation-with-chainguard-239/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
