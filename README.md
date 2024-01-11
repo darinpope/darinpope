@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 245: Building Your Best Team Ever](https://www.devopsparadox.com/episodes/building-your-best-team-ever-245/)
 - [DOP 244: What Every DevOps Should Learn in 2024](https://www.devopsparadox.com/episodes/what-every-devops-should-learn-in-2024-244/)
 - [DOP 243: Looking Back on Our 2023 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2023-predictions-243/)
 - [DOP 242: Take a Break. That’s the Message.](https://www.devopsparadox.com/episodes/take-a-break-thats-the-message-242/)
 - [DOP 241: From Restaurant Server to KubeCon Keynote in Under 4 Years](https://www.devopsparadox.com/episodes/from-restaurant-server-to-kubecon-keynote-in-under-4-years-241/)
-- [DOP 240: Supercharging Developer Workflows with Simplified Platform Engineering](https://www.devopsparadox.com/episodes/supercharging-developer-workflows-with-simplified-platform-engineering-240/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
