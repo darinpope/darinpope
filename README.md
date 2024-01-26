@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 26Jan2024](https://www.youtube.com/watch?v=nZEytrHJlC0)
 - [🔴 Hands On With Ollama](https://www.youtube.com/watch?v=wc-30eJsqCE)
 - [🔴 Cisco Acquires Isovalent](https://www.youtube.com/watch?v=YBcxnAJqAaA)
 - [🔴 Docker Acquires AtomicJar, Maker of Testcontainers](https://www.youtube.com/watch?v=16yd7YdGSL4)
 - [🔴 The Frugal Architect](https://www.youtube.com/watch?v=hBbA8e4QSkI)
-- [🔴 Do Hackers Eat Turkey?](https://www.youtube.com/watch?v=wmZZQENlS88)
 <!-- YOUTUBE:END -->
 
 ---
