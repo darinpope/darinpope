@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 248: How To Use ChatGPT for DevOps](https://www.devopsparadox.com/episodes/how-to-use-chatgpt-for-devops-248/)
 - [DOP 247: Navigating the Nuances of Developer Relations](https://www.devopsparadox.com/episodes/navigating-the-nuances-of-developer-relations-247/)
 - [DOP 246: How To Become a DevOps Architect in 2024](https://www.devopsparadox.com/episodes/how-to-become-a-devops-architect-in-2024-246/)
 - [DOP 245: Building Your Best Team Ever](https://www.devopsparadox.com/episodes/building-your-best-team-ever-245/)
 - [DOP 244: What Every DevOps Should Learn in 2024](https://www.devopsparadox.com/episodes/what-every-devops-should-learn-in-2024-244/)
-- [DOP 243: Looking Back on Our 2023 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2023-predictions-243/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
