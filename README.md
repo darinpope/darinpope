@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 2Feb2024](https://www.youtube.com/watch?v=sIFBSxEvVnU)
+- [🔴 A Week of Leaky Vessels](https://www.youtube.com/watch?v=sIFBSxEvVnU)
 - [🔴 Amazon EKS now supports Kubernetes version 1.29](https://www.youtube.com/watch?v=nZEytrHJlC0)
 - [🔴 Hands On With Ollama](https://www.youtube.com/watch?v=wc-30eJsqCE)
 - [🔴 Cisco Acquires Isovalent](https://www.youtube.com/watch?v=YBcxnAJqAaA)
