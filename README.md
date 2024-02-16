@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 16Feb2024](https://www.youtube.com/watch?v=EwoFLjavt_w)
 - [🔴 A Week of Leaky Vessels](https://www.youtube.com/watch?v=sIFBSxEvVnU)
 - [🔴 Amazon EKS now supports Kubernetes version 1.29](https://www.youtube.com/watch?v=nZEytrHJlC0)
 - [🔴 Hands On With Ollama](https://www.youtube.com/watch?v=wc-30eJsqCE)
 - [🔴 Cisco Acquires Isovalent](https://www.youtube.com/watch?v=YBcxnAJqAaA)
-- [🔴 Docker Acquires AtomicJar, Maker of Testcontainers](https://www.youtube.com/watch?v=16yd7YdGSL4)
 <!-- YOUTUBE:END -->
 
 ---
