@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 251: Demystifying Modern Message Brokers with Memphis.dev](https://www.devopsparadox.com/episodes/demystifying-modern-message-brokers-with-memphis-dev-251/)
 - [DOP 250: From Godfather of DevOps to Godfather of AI](https://www.devopsparadox.com/episodes/from-godfather-of-devops-to-godfather-of-ai-250/)
 - [DOP 249: How To Choose Between Open Source and Commercial Software](https://www.devopsparadox.com/episodes/how-to-choose-between-open-source-and-commercial-software-249/)
 - [DOP 248: How To Use ChatGPT for DevOps](https://www.devopsparadox.com/episodes/how-to-use-chatgpt-for-devops-248/)
 - [DOP 247: Navigating the Nuances of Developer Relations](https://www.devopsparadox.com/episodes/navigating-the-nuances-of-developer-relations-247/)
-- [DOP 246: How To Become a DevOps Architect in 2024](https://www.devopsparadox.com/episodes/how-to-become-a-devops-architect-in-2024-246/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
