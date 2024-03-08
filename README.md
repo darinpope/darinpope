@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 8Mar2024](https://www.youtube.com/watch?v=363Wnk3jqNc)
 - [🔴 The XY Problem](https://www.youtube.com/watch?v=KrZjaT-IRZs)
 - [🔴 Crossplane Graduation Proposal](https://www.youtube.com/watch?v=robOaMXzKww)
 - [🔴 So You Think You Know Git](https://www.youtube.com/watch?v=EwoFLjavt_w)
 - [🔴 A Week of Leaky Vessels](https://www.youtube.com/watch?v=sIFBSxEvVnU)
-- [🔴 Amazon EKS now supports Kubernetes version 1.29](https://www.youtube.com/watch?v=nZEytrHJlC0)
 <!-- YOUTUBE:END -->
 
 ---
