@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 254: What Is Infrastructure As Code in DevOps?](https://www.devopsparadox.com/episodes/what-is-infrastructure-as-code-in-devops-254/)
 - [DOP 253: Deconstructing The Platform Engineering Maturity Model](https://www.devopsparadox.com/episodes/deconstructing-the-platform-engineering-maturity-model-253/)
 - [DOP 252: How To Upgrade Kubernetes](https://www.devopsparadox.com/episodes/how-to-upgrade-kubernetes-252/)
 - [DOP 251: Demystifying Modern Message Brokers with Memphis.dev](https://www.devopsparadox.com/episodes/demystifying-modern-message-brokers-with-memphis-dev-251/)
 - [DOP 250: From Godfather of DevOps to Godfather of AI](https://www.devopsparadox.com/episodes/from-godfather-of-devops-to-godfather-of-ai-250/)
-- [DOP 249: How To Choose Between Open Source and Commercial Software](https://www.devopsparadox.com/episodes/how-to-choose-between-open-source-and-commercial-software-249/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
