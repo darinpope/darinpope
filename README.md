@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 256: KubeCon EU 2024 Review](https://www.devopsparadox.com/episodes/kubecon-eu-2024-review-256/)
 - [DOP 255: What Is Developer Observability?](https://www.devopsparadox.com/episodes/what-is-developer-observability-255/)
 - [DOP 254: What Is Infrastructure As Code in DevOps?](https://www.devopsparadox.com/episodes/what-is-infrastructure-as-code-in-devops-254/)
 - [DOP 253: Deconstructing The Platform Engineering Maturity Model](https://www.devopsparadox.com/episodes/deconstructing-the-platform-engineering-maturity-model-253/)
 - [DOP 252: How To Upgrade Kubernetes](https://www.devopsparadox.com/episodes/how-to-upgrade-kubernetes-252/)
-- [DOP 251: Demystifying Modern Message Brokers with Memphis.dev](https://www.devopsparadox.com/episodes/demystifying-modern-message-brokers-with-memphis-dev-251/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
