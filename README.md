@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 29Mar2024](https://www.youtube.com/watch?v=H-7s-xbIFqI)
+- [🔴 Redis Adopts Dual Source-Available Licensing](https://www.youtube.com/watch?v=H-7s-xbIFqI)
 - [🔴 GUAC Joins OpenSSF](https://www.youtube.com/watch?v=363Wnk3jqNc)
 - [🔴 The XY Problem](https://www.youtube.com/watch?v=KrZjaT-IRZs)
 - [🔴 Crossplane Graduation Proposal](https://www.youtube.com/watch?v=robOaMXzKww)
