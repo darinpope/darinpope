@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 258: Reflections on Startup Infrastructure Choices](https://www.devopsparadox.com/episodes/reflections-on-startup-infrastructure-choices-258/)
 - [DOP 257: Scaling at Adobe: Kubernetes, Global Networking, and Platform Innovation](https://www.devopsparadox.com/episodes/scaling-at-adobe-kubernetes-global-networking-and-platform-innovation-257/)
 - [DOP 256: KubeCon EU 2024 Review](https://www.devopsparadox.com/episodes/kubecon-eu-2024-review-256/)
 - [DOP 255: What Is Developer Observability?](https://www.devopsparadox.com/episodes/what-is-developer-observability-255/)
 - [DOP 254: What Is Infrastructure As Code in DevOps?](https://www.devopsparadox.com/episodes/what-is-infrastructure-as-code-in-devops-254/)
-- [DOP 253: Deconstructing The Platform Engineering Maturity Model](https://www.devopsparadox.com/episodes/deconstructing-the-platform-engineering-maturity-model-253/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
