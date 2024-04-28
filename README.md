@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 26Apr2024](https://www.youtube.com/watch?v=Gshp-7cOZeI)
+- [🔴 IBM To Buy HashiCorp](https://www.youtube.com/watch?v=Gshp-7cOZeI)
 - [🔴 What’s New in Kubernetes 1.30](https://www.youtube.com/watch?v=chhPLrbDG-c)
 - [🔴 A New Open Source Foundation Emerges](https://www.youtube.com/watch?v=-0OjAuocVbE)
 - [🔴 Redis Adopts Dual Source-Available Licensing](https://www.youtube.com/watch?v=H-7s-xbIFqI)
