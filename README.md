@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 10May2024](https://www.youtube.com/watch?v=6MRL6K9DSb0)
+- [🔴 Kubernetes is turning 10!](https://www.youtube.com/watch?v=6MRL6K9DSb0)
 - [🔴 Spotify for Backstage](https://www.youtube.com/watch?v=TGw6fY_QyUw)
 - [🔴 IBM To Buy HashiCorp](https://www.youtube.com/watch?v=Gshp-7cOZeI)
 - [🔴 What’s New in Kubernetes 1.30](https://www.youtube.com/watch?v=chhPLrbDG-c)
