@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 263: Navigating the Complex Path to Becoming a DevOps Architect](https://www.devopsparadox.com/episodes/navigating-the-complex-path-to-becoming-a-devops-architect-263/)
 - [DOP 262: Rethinking Project Success The Iterative Way](https://www.devopsparadox.com/episodes/rethinking-project-success-the-iterative-way-262/)
 - [DOP 261: Visionary Views on Internal Developer Platforms and Portals with Port](https://www.devopsparadox.com/episodes/visionary-views-on-internal-developer-platforms-and-portals-with-port-261/)
 - [DOP 260: Artificial Intelligence Will NOT Replace You. Devs Using AI Will.](https://www.devopsparadox.com/episodes/artificial-intelligence-will-not-replace-you-devs-using-ai-will-260/)
 - [DOP 259: Reimagining The Terminal Experience with Wave Terminal](https://www.devopsparadox.com/episodes/reimagining-the-terminal-experience-with-wave-terminal-259/)
-- [DOP 258: Reflections on Startup Infrastructure Choices](https://www.devopsparadox.com/episodes/reflections-on-startup-infrastructure-choices-258/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
