@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 24May2024](https://www.youtube.com/watch?v=SCWw0J_8fdk)
+- [🔴 How To Install and Use Devbox on macOS](https://www.youtube.com/watch?v=SCWw0J_8fdk)
 - [🔴 Kubernetes is turning 10!](https://www.youtube.com/watch?v=6MRL6K9DSb0)
 - [🔴 Spotify for Backstage](https://www.youtube.com/watch?v=TGw6fY_QyUw)
 - [🔴 IBM To Buy HashiCorp](https://www.youtube.com/watch?v=Gshp-7cOZeI)
