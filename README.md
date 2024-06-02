@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 31May2024](https://www.youtube.com/watch?v=mty6ABIRFns)
+- [🔴 GitHub and JFrog Announce Partnership](https://www.youtube.com/watch?v=mty6ABIRFns)
 - [🔴 How To Install and Use Devbox on macOS](https://www.youtube.com/watch?v=SCWw0J_8fdk)
 - [🔴 Kubernetes is turning 10!](https://www.youtube.com/watch?v=6MRL6K9DSb0)
 - [🔴 Spotify for Backstage](https://www.youtube.com/watch?v=TGw6fY_QyUw)
