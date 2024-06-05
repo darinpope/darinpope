@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 266: The Evolution of Data Structure Languages](https://www.devopsparadox.com/episodes/the-evolution-of-data-structure-languages-266/)
 - [DOP 265: The Impact of Kubernetes and GitOps on the Tech Landscape](https://www.devopsparadox.com/episodes/the-impact-of-kubernetes-and-gitops-on-the-tech-landscape-265/)
 - [DOP 264: Navigating the Changing Landscape of Open Source](https://www.devopsparadox.com/episodes/navigating-the-changing-landscape-of-open-source-264/)
 - [DOP 263: Navigating the Complex Path to Becoming a DevOps Architect](https://www.devopsparadox.com/episodes/navigating-the-complex-path-to-becoming-a-devops-architect-263/)
 - [DOP 262: Rethinking Project Success The Iterative Way](https://www.devopsparadox.com/episodes/rethinking-project-success-the-iterative-way-262/)
-- [DOP 261: Visionary Views on Internal Developer Platforms and Portals with Port](https://www.devopsparadox.com/episodes/visionary-views-on-internal-developer-platforms-and-portals-with-port-261/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
