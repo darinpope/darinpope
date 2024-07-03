@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 270: Why Should a Developer Consider Using Devbox from Jetify?](https://www.devopsparadox.com/episodes/why-should-a-developer-consider-using-devbox-from-jetify-270/)
 - [DOP 269: Using Human Centered Computing in Platform Engineering](https://www.devopsparadox.com/episodes/using-human-centered-computing-in-platform-engineering-269/)
 - [DOP 268: What Is Kubernetes Used For?](https://www.devopsparadox.com/episodes/what-is-kubernetes-used-for-268/)
 - [DOP 267: To Fork or Not To Fork](https://www.devopsparadox.com/episodes/to-fork-or-not-to-fork-267/)
 - [DOP 266: The Evolution of Data Structure Languages](https://www.devopsparadox.com/episodes/the-evolution-of-data-structure-languages-266/)
-- [DOP 265: The Impact of Kubernetes and GitOps on the Tech Landscape](https://www.devopsparadox.com/episodes/the-impact-of-kubernetes-and-gitops-on-the-tech-landscape-265/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
