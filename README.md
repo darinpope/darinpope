@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 276: Why APIs Matter More Than Ever](https://www.devopsparadox.com/episodes/why-apis-matter-more-than-ever-276/)
 - [DOP 275: Managing Modern Infrastructure with GitOps](https://www.devopsparadox.com/episodes/managing-modern-infrastructure-with-gitops-275/)
 - [DOP 274: What Is the XY Problem?](https://www.devopsparadox.com/episodes/what-is-the-xy-problem-274/)
 - [DOP 273: Adapting Three Tier Architecture for Platform Engineering](https://www.devopsparadox.com/episodes/adapting-three-tier-architecture-for-platform-engineering-273/)
 - [DOP 272: How To Become a Speaker at Conferences](https://www.devopsparadox.com/episodes/how-to-become-a-speaker-at-conferences-272/)
-- [DOP 271: Solving Real Problems in Platform Engineering](https://www.devopsparadox.com/episodes/solving-real-problems-in-platform-engineering-271/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
