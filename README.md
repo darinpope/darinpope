@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 6Sep2024](https://www.youtube.com/watch?v=DjxvtADmIfU)
+- [🔴 Catching Up After a Long Break](https://www.youtube.com/watch?v=DjxvtADmIfU)
 - [🔴 HashiCorp State of Cloud Strategy Survey 2024](https://www.youtube.com/watch?v=UWarmlxmjsY)
 - [🔴 GitHub and JFrog Announce Partnership](https://www.youtube.com/watch?v=mty6ABIRFns)
 - [🔴 How To Install and Use Devbox on macOS](https://www.youtube.com/watch?v=SCWw0J_8fdk)
