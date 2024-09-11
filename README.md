@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 280: Understanding the Importance of Policy as Code for Cloud-Native Success](https://www.devopsparadox.com/episodes/understanding-the-importance-of-policy-as-code-for-cloud-native-success-280/)
 - [DOP 279: Exploring Grafana Alloy](https://www.devopsparadox.com/episodes/exploring-grafana-alloy-279/)
 - [DOP 278: GUI versus Command Line in Development](https://www.devopsparadox.com/episodes/gui-versus-command-line-in-development-278/)
 - [DOP 277: Making Security Tooling Easy for Developers](https://www.devopsparadox.com/episodes/making-security-tooling-easy-for-developers-277/)
 - [DOP 276: Why APIs Matter More Than Ever](https://www.devopsparadox.com/episodes/why-apis-matter-more-than-ever-276/)
-- [DOP 275: Managing Modern Infrastructure with GitOps](https://www.devopsparadox.com/episodes/managing-modern-infrastructure-with-gitops-275/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
