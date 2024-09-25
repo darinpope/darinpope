@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 282: How To Measure Software Complexity](https://www.devopsparadox.com/episodes/how-to-measure-software-complexity-282/)
 - [DOP 281: The Impossibility of Competing with Tech Giants](https://www.devopsparadox.com/episodes/the-impossibility-of-competing-with-tech-giants-281/)
 - [DOP 280: Understanding the Importance of Policy as Code for Cloud-Native Success](https://www.devopsparadox.com/episodes/understanding-the-importance-of-policy-as-code-for-cloud-native-success-280/)
 - [DOP 279: Exploring Grafana Alloy](https://www.devopsparadox.com/episodes/exploring-grafana-alloy-279/)
 - [DOP 278: GUI versus Command Line in Development](https://www.devopsparadox.com/episodes/gui-versus-command-line-in-development-278/)
-- [DOP 277: Making Security Tooling Easy for Developers](https://www.devopsparadox.com/episodes/making-security-tooling-easy-for-developers-277/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
