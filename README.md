@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 27Sep2024](https://www.youtube.com/watch?v=o5DlcOn6o4o)
 - [🔴 A Week of Little News](https://www.youtube.com/watch?v=LWw8zGBipEQ)
 - [🔴 Catching Up After a Long Break](https://www.youtube.com/watch?v=DjxvtADmIfU)
 - [🔴 HashiCorp State of Cloud Strategy Survey 2024](https://www.youtube.com/watch?v=UWarmlxmjsY)
 - [🔴 GitHub and JFrog Announce Partnership](https://www.youtube.com/watch?v=mty6ABIRFns)
-- [🔴 How To Install and Use Devbox on macOS](https://www.youtube.com/watch?v=SCWw0J_8fdk)
 <!-- YOUTUBE:END -->
 
 ---
