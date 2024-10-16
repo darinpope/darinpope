@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 285: Navigating the Challenges of Legacy Software in Modern Enterprises](https://www.devopsparadox.com/episodes/navigating-the-challenges-of-legacy-software-in-modern-enterprises-285/)
 - [DOP 284: From Scratch Isn&#39;t Really From Scratch](https://www.devopsparadox.com/episodes/from-scratch-isn-t-really-from-scratch-284/)
 - [DOP 283: OpenTelemetry Meets Mobile](https://www.devopsparadox.com/episodes/opentelemetry-meets-mobile-283/)
 - [DOP 282: How To Measure Software Complexity](https://www.devopsparadox.com/episodes/how-to-measure-software-complexity-282/)
 - [DOP 281: The Impossibility of Competing with Tech Giants](https://www.devopsparadox.com/episodes/the-impossibility-of-competing-with-tech-giants-281/)
-- [DOP 280: Understanding the Importance of Policy as Code for Cloud-Native Success](https://www.devopsparadox.com/episodes/understanding-the-importance-of-policy-as-code-for-cloud-native-success-280/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
