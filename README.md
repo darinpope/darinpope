@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 8Nov2024](https://www.youtube.com/watch?v=VZBM85YDiEw)
+- [🔴 KubeConNA 2024 Countdown](https://www.youtube.com/watch?v=VZBM85YDiEw)
 - [🔴 The 2024 DORA Report Arrives](https://www.youtube.com/watch?v=JosK_nTjSbo)
 - [🔴 GitHub Evolves Issues](https://www.youtube.com/watch?v=PzdOqhukXDg)
 - [🔴 Hands-on With GitHub Copilot CLI](https://www.youtube.com/watch?v=o5DlcOn6o4o)
