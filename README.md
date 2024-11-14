@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 289: When to Build Your Own vs. Using Off-the-Shelf](https://www.devopsparadox.com/episodes/when-to-build-your-own-vs-using-off-the-shelf-289/)
 - [DOP 288: The Laws of Software Evolution](https://www.devopsparadox.com/episodes/the-laws-of-software-evolution-288/)
 - [DOP 287: Automating Dependency Updates with Renovate](https://www.devopsparadox.com/episodes/automating-dependency-updates-with-renovate-287/)
 - [DOP 286: The Hidden Costs of Free Services](https://www.devopsparadox.com/episodes/the-hidden-costs-of-free-services-286/)
 - [DOP 285: Navigating the Challenges of Legacy Software in Modern Enterprises](https://www.devopsparadox.com/episodes/navigating-the-challenges-of-legacy-software-in-modern-enterprises-285/)
-- [DOP 284: From Scratch Isn&#39;t Really From Scratch](https://www.devopsparadox.com/episodes/from-scratch-isn-t-really-from-scratch-284/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
