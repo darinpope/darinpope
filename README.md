@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 291: The Future of Software Development in an AI-Driven World](https://www.devopsparadox.com/episodes/the-future-of-software-development-in-an-ai-driven-world-291/)
 - [DOP 290: KubeCon North America 2024 Review](https://www.devopsparadox.com/episodes/kubecon-north-america-2024-review-290/)
 - [DOP 289: When to Build Your Own vs. Using Off-the-Shelf](https://www.devopsparadox.com/episodes/when-to-build-your-own-vs-using-off-the-shelf-289/)
 - [DOP 288: The Laws of Software Evolution](https://www.devopsparadox.com/episodes/the-laws-of-software-evolution-288/)
 - [DOP 287: Automating Dependency Updates with Renovate](https://www.devopsparadox.com/episodes/automating-dependency-updates-with-renovate-287/)
-- [DOP 286: The Hidden Costs of Free Services](https://www.devopsparadox.com/episodes/the-hidden-costs-of-free-services-286/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
