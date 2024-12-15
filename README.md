@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 13Dec2024](https://www.youtube.com/watch?v=IdfLZuWf6-w)
+- [🔴 What’s New in Kubernetes 1.32](https://www.youtube.com/watch?v=IdfLZuWf6-w)
 - [🔴 One Last Look at KubeCon NA 2024](https://www.youtube.com/watch?v=basPug2EINM)
 - [🔴 KubeConNA 2024 Countdown](https://www.youtube.com/watch?v=VZBM85YDiEw)
 - [🔴 The 2024 DORA Report Arrives](https://www.youtube.com/watch?v=JosK_nTjSbo)
