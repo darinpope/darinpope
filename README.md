@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 294: Looking Back on Our 2024 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2024-predictions-294/)
 - [DOP 293: Attracting and Retaining Talent in a Changing Tech World](https://www.devopsparadox.com/episodes/attracting-and-retaining-talent-in-a-changing-tech-world-293/)
 - [DOP 292: No Project Is Truly Open Source](https://www.devopsparadox.com/episodes/no-project-is-truly-open-source-292/)
 - [DOP 291: The Future of Software Development in an AI-Driven World](https://www.devopsparadox.com/episodes/the-future-of-software-development-in-an-ai-driven-world-291/)
 - [DOP 290: KubeCon North America 2024 Review](https://www.devopsparadox.com/episodes/kubecon-north-america-2024-review-290/)
-- [DOP 289: When to Build Your Own vs. Using Off-the-Shelf](https://www.devopsparadox.com/episodes/when-to-build-your-own-vs-using-off-the-shelf-289/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
