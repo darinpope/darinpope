@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 296: 2025 - The Year of Not Yet](https://www.devopsparadox.com/episodes/2025-the-year-of-not-yet-296/)
 - [DOP 295: If You Are Listening to This, Go Back to Bed](https://www.devopsparadox.com/episodes/if-you-are-listening-to-this-go-back-to-bed-295/)
 - [DOP 294: Looking Back on Our 2024 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2024-predictions-294/)
 - [DOP 293: Attracting and Retaining Talent in a Changing Tech World](https://www.devopsparadox.com/episodes/attracting-and-retaining-talent-in-a-changing-tech-world-293/)
 - [DOP 292: No Project Is Truly Open Source](https://www.devopsparadox.com/episodes/no-project-is-truly-open-source-292/)
-- [DOP 291: The Future of Software Development in an AI-Driven World](https://www.devopsparadox.com/episodes/the-future-of-software-development-in-an-ai-driven-world-291/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
