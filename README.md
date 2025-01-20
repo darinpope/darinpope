@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 17Jan2025](https://www.youtube.com/watch?v=7R-vmTqyRuU)
+- [🔴 Hands On With Windsurf Editor](https://www.youtube.com/watch?v=7R-vmTqyRuU)
 - [🔴 Installing and Configuring Ghostty](https://www.youtube.com/watch?v=dc3lboqpwH0)
 - [🔴 What’s New in Kubernetes 1.32](https://www.youtube.com/watch?v=IdfLZuWf6-w)
 - [🔴 One Last Look at KubeCon NA 2024](https://www.youtube.com/watch?v=basPug2EINM)
