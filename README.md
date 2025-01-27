@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 24Jan2025](https://www.youtube.com/watch?v=5Ouic3MSSuo)
+- [🔴 Hands on With Gitxray](https://www.youtube.com/watch?v=5Ouic3MSSuo)
 - [🔴 Hands On With Windsurf Editor](https://www.youtube.com/watch?v=7R-vmTqyRuU)
 - [🔴 Installing and Configuring Ghostty](https://www.youtube.com/watch?v=dc3lboqpwH0)
 - [🔴 What’s New in Kubernetes 1.32](https://www.youtube.com/watch?v=IdfLZuWf6-w)
