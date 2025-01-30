@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 300: How To Become an AI Native Engineer in 2025](https://www.devopsparadox.com/episodes/how-to-become-an-ai-native-engineer-in-2025-300/)
 - [DOP 299: Managing Your AI Workloads With KitOps](https://www.devopsparadox.com/episodes/managing-your-ai-workloads-with-kitops-299/)
 - [DOP 298: Tools Versus Culture](https://www.devopsparadox.com/episodes/tools-versus-culture-298/)
 - [DOP 297: Streamline Access Control Using Cerbos](https://www.devopsparadox.com/episodes/streamline-access-control-using-cerbos-297/)
 - [DOP 296: 2025 - The Year of Not Yet](https://www.devopsparadox.com/episodes/2025-the-year-of-not-yet-296/)
-- [DOP 295: If You Are Listening to This, Go Back to Bed](https://www.devopsparadox.com/episodes/if-you-are-listening-to-this-go-back-to-bed-295/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
