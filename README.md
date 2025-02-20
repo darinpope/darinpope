@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 303: How To Develop a CLI in 2025](https://www.devopsparadox.com/episodes/how-to-develop-a-cli-in-2025-303/)
 - [DOP 302: Using AI To Help With Your Programming Tasks](https://www.devopsparadox.com/episodes/using-ai-to-help-with-your-programming-tasks-302/)
 - [DOP 301: Exploring OpenRewrite and the Future of Code Modernization](https://www.devopsparadox.com/episodes/exploring-openrewrite-and-the-future-of-code-modernization-301/)
 - [DOP 300: How To Become an AI Native Engineer in 2025](https://www.devopsparadox.com/episodes/how-to-become-an-ai-native-engineer-in-2025-300/)
 - [DOP 299: Managing Your AI Workloads With KitOps](https://www.devopsparadox.com/episodes/managing-your-ai-workloads-with-kitops-299/)
-- [DOP 298: Tools Versus Culture](https://www.devopsparadox.com/episodes/tools-versus-culture-298/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
