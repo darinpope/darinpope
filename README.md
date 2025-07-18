@@ -28,11 +28,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 18Jul2025](https://www.youtube.com/watch?v=XX4rVD0oHGo)
 - [🔴 The AI Bubble: 18 Months to Crash or Unicorn Status?](https://www.youtube.com/watch?v=WkUmB7VcKMk)
 - [🔴 It’s All AI Now](https://www.youtube.com/watch?v=SB-6HUHJMs0)
 - [🔴 GitHub Copilot: The Agent Awakens](https://www.youtube.com/watch?v=VoG22dIie0k)
 - [🔴 First Look at Goose](https://www.youtube.com/watch?v=NhlsFRDmWzI)
-- [🔴 Hands on With Gitxray](https://www.youtube.com/watch?v=5Ouic3MSSuo)
 <!-- YOUTUBE:END -->
 
 ---
