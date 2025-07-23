@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 308: The Truth of CI/CD](https://www.devopsparadox.com/episodes/the-truth-of-ci-cd-308/)
 - [DOP 307: Kubernetes in 2025](https://www.devopsparadox.com/episodes/kubernetes-in-2025-307/)
 - [DOP 306: Understanding GraphQL&#39;s Role in Modern APIs](https://www.devopsparadox.com/episodes/understanding-graphql-s-role-in-modern-apis-306/)
 - [DOP 305: The Episode I Thought I Would Never Record](https://www.devopsparadox.com/episodes/the-episode-i-thought-i-would-never-record-305/)
 - [DOP 304: Strategies for Successful Talent Retention](https://www.devopsparadox.com/episodes/strategies-for-successful-talent-retention-304/)
-- [DOP 303: How To Develop a CLI in 2025](https://www.devopsparadox.com/episodes/how-to-develop-a-cli-in-2025-303/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
