@@ -28,7 +28,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 1Aug2025](https://www.youtube.com/watch?v=ua_nddvJ6b4)
+- [🔴 AI Writes 136-Line PRDs in Minutes - But Should You Trust It?](https://www.youtube.com/watch?v=ua_nddvJ6b4)
 - [🔴 AWS EKS Now Supports 100,000 Nodes - AI is Eating Everything](https://www.youtube.com/watch?v=XX4rVD0oHGo)
 - [🔴 The AI Bubble: 18 Months to Crash or Unicorn Status?](https://www.youtube.com/watch?v=WkUmB7VcKMk)
 - [🔴 It’s All AI Now](https://www.youtube.com/watch?v=SB-6HUHJMs0)
