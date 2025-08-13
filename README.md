@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 311: Harnessing AI for Accelerated Project Development](https://www.devopsparadox.com/episodes/harnessing-ai-for-accelerated-project-development-311/)
 - [DOP 310: The Misconceptions and Realities of DevOps, Agile, and Leadership](https://www.devopsparadox.com/episodes/the-misconceptions-and-realities-of-devops-agile-and-leadership-310/)
 - [DOP 309: Using AI Agents in Daily Development Tasks](https://www.devopsparadox.com/episodes/using-ai-agents-in-daily-development-tasks-309/)
 - [DOP 308: The Truth of CI/CD](https://www.devopsparadox.com/episodes/the-truth-of-ci-cd-308/)
 - [DOP 307: Kubernetes in 2025](https://www.devopsparadox.com/episodes/kubernetes-in-2025-307/)
-- [DOP 306: Understanding GraphQL&#39;s Role in Modern APIs](https://www.devopsparadox.com/episodes/understanding-graphql-s-role-in-modern-apis-306/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
