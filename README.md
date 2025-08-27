@@ -17,11 +17,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 313: Harnessing AI for Smarter Development](https://www.devopsparadox.com/episodes/harnessing-ai-for-smarter-development-313/)
 - [DOP 312: Transitioning from VMWare to KubeVirt](https://www.devopsparadox.com/episodes/transitioning-from-vmware-to-kubevirt-312/)
 - [DOP 311: Harnessing AI for Accelerated Project Development](https://www.devopsparadox.com/episodes/harnessing-ai-for-accelerated-project-development-311/)
 - [DOP 310: The Misconceptions and Realities of DevOps, Agile, and Leadership](https://www.devopsparadox.com/episodes/the-misconceptions-and-realities-of-devops-agile-and-leadership-310/)
 - [DOP 309: Using AI Agents in Daily Development Tasks](https://www.devopsparadox.com/episodes/using-ai-agents-in-daily-development-tasks-309/)
-- [DOP 308: The Truth of CI/CD](https://www.devopsparadox.com/episodes/the-truth-of-ci-cd-308/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
