@@ -1,7 +1,6 @@
 ### Hi there, I'm Darin 👋
 
 ## Here's what I'm up to
-- I'm a developer advocate for [CloudBees][cloudbees-website]
 - I'm the co-host of a weekly podcast named [DevOps Paradox][dop-website]
 
 ### Connect with me:
