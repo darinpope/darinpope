@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 317: The Human Cost of AI Automation in DevOps](https://www.devopsparadox.com/episodes/the-human-cost-of-ai-automation-in-devops-317/)
 - [DOP 316: Bringing Back the Original Internet Vision Using Tailscale](https://www.devopsparadox.com/episodes/bringing-back-the-original-internet-vision-using-tailscale-316/)
 - [DOP 315: Why Good Developers Spend More Time Designing Than Coding](https://www.devopsparadox.com/episodes/why-good-developers-spend-more-time-designing-than-coding-315/)
 - [DOP 314: Building Your Speaking Career From Meetups to Main Stage](https://www.devopsparadox.com/episodes/building-your-speaking-career-from-meetups-to-main-stage-314/)
 - [DOP 313: Harnessing AI for Smarter Development](https://www.devopsparadox.com/episodes/harnessing-ai-for-smarter-development-313/)
-- [DOP 312: Transitioning from VMWare to KubeVirt](https://www.devopsparadox.com/episodes/transitioning-from-vmware-to-kubevirt-312/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
