@@ -26,11 +26,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 26Sep2025](https://www.youtube.com/watch?v=pfxIT4TKVeI)
 - [🔴 AI Native Infrastructure Automation is HERE](https://www.youtube.com/watch?v=ccRQcpRPJ-4)
 - [🔴 Apple Hires Key Open Policy Agent Developers From Styra](https://www.youtube.com/watch?v=O_pS_S8LpgY)
 - [🔴 Why AI Coding Tools Are Giving Everyone Headaches](https://www.youtube.com/watch?v=KaVz6sXTUJw)
 - [🔴 Why Developers Are AI&#39;s Biggest Token Burners &lpar;It&#39;s Not Even Close&rpar;](https://www.youtube.com/watch?v=FNZqCMSlmv8)
-- [🔴 AI Writes 136-Line PRDs in Minutes - But Should You Trust It?](https://www.youtube.com/watch?v=ua_nddvJ6b4)
 <!-- YOUTUBE:END -->
 
 ---
