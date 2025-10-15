@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 320: Why Dashboards Alone Are Not Enough for Incident Response](https://www.devopsparadox.com/episodes/why-dashboards-alone-are-not-enough-for-incident-response-320/)
 - [DOP 319: AI-Powered Infrastructure: Beyond Hype to Reality](https://www.devopsparadox.com/episodes/ai-powered-infrastructure-beyond-hype-to-reality-319/)
 - [DOP 318: WireMock and the Changing Landscape of API Development Tools](https://www.devopsparadox.com/episodes/wiremock-and-the-changing-landscape-of-api-development-tools-318/)
 - [DOP 317: The Human Cost of AI Automation in DevOps](https://www.devopsparadox.com/episodes/the-human-cost-of-ai-automation-in-devops-317/)
 - [DOP 316: Bringing Back the Original Internet Vision Using Tailscale](https://www.devopsparadox.com/episodes/bringing-back-the-original-internet-vision-using-tailscale-316/)
-- [DOP 315: Why Good Developers Spend More Time Designing Than Coding](https://www.devopsparadox.com/episodes/why-good-developers-spend-more-time-designing-than-coding-315/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
