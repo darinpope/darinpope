@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 17Oct2025](https://www.youtube.com/watch?v=2dVjongcA0M)
+- [🔴 This New AI Feature Just Saved Me 67% in Costs](https://www.youtube.com/watch?v=2dVjongcA0M)
 - [🔴 90% of Developers Use AI? I Call BS](https://www.youtube.com/watch?v=pfxIT4TKVeI)
 - [🔴 AI Native Infrastructure Automation is HERE](https://www.youtube.com/watch?v=ccRQcpRPJ-4)
 - [🔴 Apple Hires Key Open Policy Agent Developers From Styra](https://www.youtube.com/watch?v=O_pS_S8LpgY)
