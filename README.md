@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 325: KubeCon North America 2025 Review](https://www.devopsparadox.com/episodes/kubecon-north-america-2025-review-325/)
 - [DOP 324: Kubernetes Resource Right-Sizing and Scaling with Zesty](https://www.devopsparadox.com/episodes/kubernetes-resource-right-sizing-and-scaling-with-zesty-324/)
 - [DOP 323: The Security Nightmare of Vibe Coding](https://www.devopsparadox.com/episodes/the-security-nightmare-of-vibe-coding-323/)
 - [DOP 322: How to Build Apps That Never Go Down Even When Servers Die](https://www.devopsparadox.com/episodes/how-to-build-apps-that-never-go-down-even-when-servers-die-322/)
 - [DOP 321: Model Context Protocol for Standardizing AI Tool Integration](https://www.devopsparadox.com/episodes/model-context-protocol-for-standardizing-ai-tool-integration-321/)
-- [DOP 320: Why Dashboards Alone Are Not Enough for Incident Response](https://www.devopsparadox.com/episodes/why-dashboards-alone-are-not-enough-for-incident-response-320/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
