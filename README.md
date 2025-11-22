@@ -26,8 +26,8 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 21Nov2025](https://www.youtube.com/watch?v=2VQMeabF5eM)
-- [🔴 LIVE: Happy Hour / AMA for 21Nov2025 📱](https://www.youtube.com/watch?v=5GqlFtTm7cg)
+- [🔴 📱Ingress NGINX Retiring: What It Means for Your Infrastructure](https://www.youtube.com/watch?v=5GqlFtTm7cg)
+- [🔴 Ingress NGINX Retiring: What It Means for Your Infrastructure](https://www.youtube.com/watch?v=2VQMeabF5eM)
 - [🔴 This New AI Feature Just Saved Me 67% in Costs](https://www.youtube.com/watch?v=2dVjongcA0M)
 - [🔴 90% of Developers Use AI? I Call BS](https://www.youtube.com/watch?v=pfxIT4TKVeI)
 - [🔴 AI Native Infrastructure Automation is HERE](https://www.youtube.com/watch?v=ccRQcpRPJ-4)
