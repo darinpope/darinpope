@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 326: Stop Reinventing The Wheel - Use Dapr Instead](https://www.devopsparadox.com/episodes/stop-reinventing-the-wheel-use-dapr-instead-326/)
 - [DOP 325: KubeCon North America 2025 Review](https://www.devopsparadox.com/episodes/kubecon-north-america-2025-review-325/)
 - [DOP 324: Kubernetes Resource Right-Sizing and Scaling with Zesty](https://www.devopsparadox.com/episodes/kubernetes-resource-right-sizing-and-scaling-with-zesty-324/)
 - [DOP 323: The Security Nightmare of Vibe Coding](https://www.devopsparadox.com/episodes/the-security-nightmare-of-vibe-coding-323/)
 - [DOP 322: How to Build Apps That Never Go Down Even When Servers Die](https://www.devopsparadox.com/episodes/how-to-build-apps-that-never-go-down-even-when-servers-die-322/)
-- [DOP 321: Model Context Protocol for Standardizing AI Tool Integration](https://www.devopsparadox.com/episodes/model-context-protocol-for-standardizing-ai-tool-integration-321/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
