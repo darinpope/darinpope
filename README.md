@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 329: Vibe Coding and The Technical Debt Time Bomb](https://www.devopsparadox.com/episodes/vibe-coding-and-the-technical-debt-time-bomb-329/)
 - [DOP 328: The Real Cost of Build Versus Buy Decisions](https://www.devopsparadox.com/episodes/the-real-cost-of-build-versus-buy-decisions-328/)
 - [DOP 327: When AI Tools Go Rogue](https://www.devopsparadox.com/episodes/when-ai-tools-go-rogue-327/)
 - [DOP 326: Stop Reinventing The Wheel - Use Dapr Instead](https://www.devopsparadox.com/episodes/stop-reinventing-the-wheel-use-dapr-instead-326/)
 - [DOP 325: KubeCon North America 2025 Review](https://www.devopsparadox.com/episodes/kubecon-north-america-2025-review-325/)
-- [DOP 324: Kubernetes Resource Right-Sizing and Scaling with Zesty](https://www.devopsparadox.com/episodes/kubernetes-resource-right-sizing-and-scaling-with-zesty-324/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
