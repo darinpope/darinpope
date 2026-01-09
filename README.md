@@ -26,11 +26,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 9Jan2026](https://www.youtube.com/watch?v=ykLc5tldLF8)
 - [🔴 Why Every AI Tool is Suddenly Supporting Agent Skills](https://www.youtube.com/watch?v=-EJwHO9hIoA)
 - [🔴 Why VCs Are Throwing MILLIONS at Anything With &#39;AI&#39; in the Name](https://www.youtube.com/watch?v=DoLaBGe204Y)
 - [🔴 📱 AWS Just Made DevOps Engineers Obsolete &lpar;Or Did They?&rpar;](https://www.youtube.com/watch?v=B6Zju2JnLCk)
 - [🔴 AWS Just Made DevOps Engineers Obsolete &lpar;Or Did They?&rpar;](https://www.youtube.com/watch?v=8DJVXbZsth8)
-- [🔴 📱Ingress NGINX Retiring: What It Means for Your Infrastructure](https://www.youtube.com/watch?v=5GqlFtTm7cg)
 <!-- YOUTUBE:END -->
 
 ---
