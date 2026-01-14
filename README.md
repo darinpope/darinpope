@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 333: The Hidden Problems Behind Every Data Pipeline](https://www.devopsparadox.com/episodes/the-hidden-problems-behind-every-data-pipeline-333/)
 - [DOP 332: 2026 - The Year of Discovery](https://www.devopsparadox.com/episodes/2026-the-year-of-discovery-332/)
 - [DOP 331: Looking Back on Our 2025 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2025-predictions-331/)
 - [DOP 330: Merry Christmas &lpar;You Should Probably Be Doing Something Else&rpar;](https://www.devopsparadox.com/episodes/merry-christmas-you-should-probably-be-doing-something-else-330/)
 - [DOP 329: Vibe Coding and The Technical Debt Time Bomb](https://www.devopsparadox.com/episodes/vibe-coding-and-the-technical-debt-time-bomb-329/)
-- [DOP 328: The Real Cost of Build Versus Buy Decisions](https://www.devopsparadox.com/episodes/the-real-cost-of-build-versus-buy-decisions-328/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
