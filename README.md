@@ -26,11 +26,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 23Jan2026](https://www.youtube.com/watch?v=qsv5UsYsQa8)
 - [🔴 Anthropic Needs to Slow Down - Claude Code Is Moving Too Fast](https://www.youtube.com/watch?v=JhlMnH8Ifvg)
 - [🔴 RIP Open Source? How AI is Destroying Developer Business Models](https://www.youtube.com/watch?v=ykLc5tldLF8)
 - [🔴 Why Every AI Tool is Suddenly Supporting Agent Skills](https://www.youtube.com/watch?v=-EJwHO9hIoA)
 - [🔴 Why VCs Are Throwing MILLIONS at Anything With &#39;AI&#39; in the Name](https://www.youtube.com/watch?v=DoLaBGe204Y)
-- [🔴 📱 AWS Just Made DevOps Engineers Obsolete &lpar;Or Did They?&rpar;](https://www.youtube.com/watch?v=B6Zju2JnLCk)
 <!-- YOUTUBE:END -->
 
 ---
