@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 23Jan2026](https://www.youtube.com/watch?v=qsv5UsYsQa8)
+- [🔴 AI Is Writing All My Code Now](https://www.youtube.com/watch?v=qsv5UsYsQa8)
 - [🔴 Anthropic Needs to Slow Down - Claude Code Is Moving Too Fast](https://www.youtube.com/watch?v=JhlMnH8Ifvg)
 - [🔴 RIP Open Source? How AI is Destroying Developer Business Models](https://www.youtube.com/watch?v=ykLc5tldLF8)
 - [🔴 Why Every AI Tool is Suddenly Supporting Agent Skills](https://www.youtube.com/watch?v=-EJwHO9hIoA)
