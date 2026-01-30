@@ -37,11 +37,10 @@
 
 
 [website]: https://www.darinpope.com/
-[twitter]: https://twitter.com/darinpope
+[x]: https://x.com/darinpope
 [youtube]: https://youtube.com/darinpope
 [instagram]: https://instagram.com/darinpope
 [linkedin]: https://linkedin.com/in/darinpope
-[cloudbees-website]: https://www.cloudbees.com/
 [dop-website]: https://www.devopsparadox.com/
 
 <!--
