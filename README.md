@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 336: Why Top Talent Won&#39;t Work for You Anymore](https://www.devopsparadox.com/episodes/why-top-talent-won-t-work-for-you-anymore-336/)
 - [DOP 335: Stop Building Dashboards and Start Getting Answers With Coroot](https://www.devopsparadox.com/episodes/stop-building-dashboards-and-start-getting-answers-with-coroot-335/)
 - [DOP 334: If Code Is the Easy Part, What Should Developers Actually Be Doing?](https://www.devopsparadox.com/episodes/if-code-is-the-easy-part-what-should-developers-actually-be-doing-334/)
 - [DOP 333: The Hidden Problems Behind Every Data Pipeline](https://www.devopsparadox.com/episodes/the-hidden-problems-behind-every-data-pipeline-333/)
 - [DOP 332: 2026 - The Year of Discovery](https://www.devopsparadox.com/episodes/2026-the-year-of-discovery-332/)
-- [DOP 331: Looking Back on Our 2025 Predictions](https://www.devopsparadox.com/episodes/looking-back-on-our-2025-predictions-331/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
