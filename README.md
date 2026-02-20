@@ -26,11 +26,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 20Feb2026](https://www.youtube.com/watch?v=LqvTE_uVYec)
 - [🔴 Your $14 App Is Now Someone&#39;s Weekend Project](https://www.youtube.com/watch?v=WV8Dd2snsd0)
 - [🔴 The END of Open Source? Vibe Coding Is Killing Everything](https://www.youtube.com/watch?v=PvYp-S_vlD0)
 - [🔴 AI Is Writing All My Code Now](https://www.youtube.com/watch?v=qsv5UsYsQa8)
 - [🔴 Anthropic Needs to Slow Down - Claude Code Is Moving Too Fast](https://www.youtube.com/watch?v=JhlMnH8Ifvg)
-- [🔴 RIP Open Source? How AI is Destroying Developer Business Models](https://www.youtube.com/watch?v=ykLc5tldLF8)
 <!-- YOUTUBE:END -->
 
 ---
