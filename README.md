@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 339: DNS Is Old Tech &lpar;And That&#39;s Why It Still Runs the Internet&rpar;](https://www.devopsparadox.com/episodes/dns-is-old-tech-and-that-s-why-it-still-runs-the-internet-339/)
 - [DOP 338: The Assembly Line Problem: Why Adding AI to One Step Breaks Everything](https://www.devopsparadox.com/episodes/the-assembly-line-problem-why-adding-ai-to-one-step-breaks-everything-338/)
 - [DOP 337: Nanoseconds Matter - InfluxDB and the Future of Real-Time Data](https://www.devopsparadox.com/episodes/nanoseconds-matter-influxdb-and-the-future-of-real-time-data-337/)
 - [DOP 336: Why Top Talent Won&#39;t Work for You Anymore](https://www.devopsparadox.com/episodes/why-top-talent-won-t-work-for-you-anymore-336/)
 - [DOP 335: Stop Building Dashboards and Start Getting Answers With Coroot](https://www.devopsparadox.com/episodes/stop-building-dashboards-and-start-getting-answers-with-coroot-335/)
-- [DOP 334: If Code Is the Easy Part, What Should Developers Actually Be Doing?](https://www.devopsparadox.com/episodes/if-code-is-the-easy-part-what-should-developers-actually-be-doing-334/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
