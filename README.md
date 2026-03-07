@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 6Mar2026](https://www.youtube.com/watch?v=mPajFM1a3-Q)
+- [🔴 The SDLC Is Dead and Context Is All That&#39;s Left](https://www.youtube.com/watch?v=mPajFM1a3-Q)
 - [🔴 Cloudflare Shrunk 2 Million Tokens to 1,000 but MCPs Still Have a Problem](https://www.youtube.com/watch?v=LqvTE_uVYec)
 - [🔴 Your $14 App Is Now Someone&#39;s Weekend Project](https://www.youtube.com/watch?v=WV8Dd2snsd0)
 - [🔴 The END of Open Source? Vibe Coding Is Killing Everything](https://www.youtube.com/watch?v=PvYp-S_vlD0)
