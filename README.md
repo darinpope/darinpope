@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 343: Your APIs Were Never Built to Be the Front Door](https://www.devopsparadox.com/episodes/your-apis-were-never-built-to-be-the-front-door-343/)
 - [DOP 342: Your Company Documentation Is Useless for AI](https://www.devopsparadox.com/episodes/your-company-documentation-is-useless-for-ai-342/)
 - [DOP 341: AI Widened the Highway but Nobody Rebuilt the Bridge](https://www.devopsparadox.com/episodes/ai-widened-the-highway-but-nobody-rebuilt-the-bridge-341/)
 - [DOP 340: Why Operations Teams Resist Every Technology Wave](https://www.devopsparadox.com/episodes/why-operations-teams-resist-every-technology-wave-340/)
 - [DOP 339: DNS Is Old Tech &lpar;And That&#39;s Why It Still Runs the Internet&rpar;](https://www.devopsparadox.com/episodes/dns-is-old-tech-and-that-s-why-it-still-runs-the-internet-339/)
-- [DOP 338: The Assembly Line Problem: Why Adding AI to One Step Breaks Everything](https://www.devopsparadox.com/episodes/the-assembly-line-problem-why-adding-ai-to-one-step-breaks-everything-338/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
