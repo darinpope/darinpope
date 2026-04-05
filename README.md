@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 3Apr2026](https://www.youtube.com/watch?v=2E4XwF3hvkM)
+- [🔴 GitHub Will Be Training on Your Code and You’re Already Opted In](https://www.youtube.com/watch?v=2E4XwF3hvkM)
 - [🔴 LIVE: Happy Hour / AMA for 13Mar2026](https://www.youtube.com/watch?v=1PFEzQ_ul0U)
 - [🔴 The SDLC Is Dead and Context Is All That&#39;s Left](https://www.youtube.com/watch?v=mPajFM1a3-Q)
 - [🔴 Cloudflare Shrunk 2 Million Tokens to 1,000 but MCPs Still Have a Problem](https://www.youtube.com/watch?v=LqvTE_uVYec)
