@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 345: From Chat Prompt to Working Software with Kiro](https://www.devopsparadox.com/episodes/from-chat-prompt-to-working-software-with-kiro-345/)
 - [DOP 344: KubeCon EU 2026 Review](https://www.devopsparadox.com/episodes/kubecon-eu-2026-review-344/)
 - [DOP 343: Your APIs Were Never Built to Be the Front Door](https://www.devopsparadox.com/episodes/your-apis-were-never-built-to-be-the-front-door-343/)
 - [DOP 342: Your Company Documentation Is Useless for AI](https://www.devopsparadox.com/episodes/your-company-documentation-is-useless-for-ai-342/)
 - [DOP 341: AI Widened the Highway but Nobody Rebuilt the Bridge](https://www.devopsparadox.com/episodes/ai-widened-the-highway-but-nobody-rebuilt-the-bridge-341/)
-- [DOP 340: Why Operations Teams Resist Every Technology Wave](https://www.devopsparadox.com/episodes/why-operations-teams-resist-every-technology-wave-340/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
