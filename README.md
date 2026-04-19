@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 17Apr2026](https://www.youtube.com/watch?v=YZdVpR09zVw)
+- [🔴 The Security Advice Everyone Is Reissuing in 2026 Was Already True in 2000](https://www.youtube.com/watch?v=YZdVpR09zVw)
 - [🔴 Anthropic&#39;s Mythos Model Just Found a 27-Year-Old OpenBSD Bug Nobody Ever Noticed](https://www.youtube.com/watch?v=blVM3R_68GI)
 - [🔴 GitHub Will Be Training on Your Code and You’re Already Opted In](https://www.youtube.com/watch?v=2E4XwF3hvkM)
 - [🔴 LIVE: Happy Hour / AMA for 13Mar2026](https://www.youtube.com/watch?v=1PFEzQ_ul0U)
