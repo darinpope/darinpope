@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 349: Shadow AI Is Going to Be a Thousand Times Worse Than Shadow IT](https://www.devopsparadox.com/episodes/shadow-ai-is-going-to-be-a-thousand-times-worse-than-shadow-it-349/)
 - [DOP 348: Now It&#39;s Time to Panic](https://www.devopsparadox.com/episodes/now-it-s-time-to-panic-348/)
 - [DOP 347: Cozystack Turns Bare Metal Into a Managed Services Platform](https://www.devopsparadox.com/episodes/cozystack-turns-bare-metal-into-a-managed-services-platform-347/)
 - [DOP 346: Fighting AI in Your Project Is a Terrible Mistake](https://www.devopsparadox.com/episodes/fighting-ai-in-your-project-is-a-terrible-mistake-346/)
 - [DOP 345: From Chat Prompt to Working Software with Kiro](https://www.devopsparadox.com/episodes/from-chat-prompt-to-working-software-with-kiro-345/)
-- [DOP 344: KubeCon EU 2026 Review](https://www.devopsparadox.com/episodes/kubecon-eu-2026-review-344/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
