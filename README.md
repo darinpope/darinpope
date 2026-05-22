@@ -26,11 +26,11 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
+- [🔴 LIVE: Happy Hour / AMA for 22May2026](https://www.youtube.com/watch?v=KaNkzHzNCLY)
 - [🔴 The DORA Report Just Killed the AI Productivity Pitch](https://www.youtube.com/watch?v=uX9u_qiC0G8)
 - [🔴 Yet Another One](https://www.youtube.com/watch?v=y_fH5g1Y7fQ)
 - [🔴 Kubernetes 1.36 Shipped and the Logo Got More Press Than the Release](https://www.youtube.com/watch?v=JkPbS8LQWrg)
 - [🔴 The Security Advice Everyone Is Reissuing in 2026 Was Already True in 2000](https://www.youtube.com/watch?v=YZdVpR09zVw)
-- [🔴 Anthropic&#39;s Mythos Model Just Found a 27-Year-Old OpenBSD Bug Nobody Ever Noticed](https://www.youtube.com/watch?v=blVM3R_68GI)
 <!-- YOUTUBE:END -->
 
 ---
