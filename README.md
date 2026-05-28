@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 352: No-Code Is the Guardrail Vibe Coding Needs](https://www.devopsparadox.com/episodes/no-code-is-the-guardrail-vibe-coding-needs-352/)
 - [DOP 351: The Developer Job Market in the Age of AI](https://www.devopsparadox.com/episodes/the-developer-job-market-in-the-age-of-ai-351/)
 - [DOP 350: Context Is the New Bottleneck, Not Code](https://www.devopsparadox.com/episodes/context-is-the-new-bottleneck-not-code-350/)
 - [DOP 349: Shadow AI Is Going to Be a Thousand Times Worse Than Shadow IT](https://www.devopsparadox.com/episodes/shadow-ai-is-going-to-be-a-thousand-times-worse-than-shadow-it-349/)
 - [DOP 348: Now It&#39;s Time to Panic](https://www.devopsparadox.com/episodes/now-it-s-time-to-panic-348/)
-- [DOP 347: Cozystack Turns Bare Metal Into a Managed Services Platform](https://www.devopsparadox.com/episodes/cozystack-turns-bare-metal-into-a-managed-services-platform-347/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
