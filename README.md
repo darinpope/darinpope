@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 5Jun2026](https://www.youtube.com/watch?v=Wr2UfNmMvXU)
+- [🔴 ClickUp Will Pay You a Million Dollars. There Is a Catch.](https://www.youtube.com/watch?v=Wr2UfNmMvXU)
 - [🔴 The Bug Bounty Era Is Over](https://www.youtube.com/watch?v=KaNkzHzNCLY)
 - [🔴 The DORA Report Just Killed the AI Productivity Pitch](https://www.youtube.com/watch?v=uX9u_qiC0G8)
 - [🔴 Yet Another One](https://www.youtube.com/watch?v=y_fH5g1Y7fQ)
