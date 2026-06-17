@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 355: Why AI Coding Slows Down Code Review](https://www.devopsparadox.com/episodes/why-ai-coding-slows-down-code-review-355/)
 - [DOP 354: Your Dead Founder Trains New Hires](https://www.devopsparadox.com/episodes/your-dead-founder-trains-new-hires-354/)
 - [DOP 353: A Person Owns It Not the AI](https://www.devopsparadox.com/episodes/a-person-owns-it-not-the-ai-353/)
 - [DOP 352: No-Code Is the Guardrail Vibe Coding Needs](https://www.devopsparadox.com/episodes/no-code-is-the-guardrail-vibe-coding-needs-352/)
 - [DOP 351: The Developer Job Market in the Age of AI](https://www.devopsparadox.com/episodes/the-developer-job-market-in-the-age-of-ai-351/)
-- [DOP 350: Context Is the New Bottleneck, Not Code](https://www.devopsparadox.com/episodes/context-is-the-new-bottleneck-not-code-350/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
