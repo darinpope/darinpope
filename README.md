@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 19Jun2026](https://www.youtube.com/watch?v=8VODaSCPjYs)
+- [🔴 The AI That Ranks Your Dev Tools Has Never Used Any of Them](https://www.youtube.com/watch?v=8VODaSCPjYs)
 - [🔴 ClickUp Will Pay You a Million Dollars. There Is a Catch.](https://www.youtube.com/watch?v=Wr2UfNmMvXU)
 - [🔴 The Bug Bounty Era Is Over](https://www.youtube.com/watch?v=KaNkzHzNCLY)
 - [🔴 The DORA Report Just Killed the AI Productivity Pitch](https://www.youtube.com/watch?v=uX9u_qiC0G8)
