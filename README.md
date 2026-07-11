@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 10Jul2026](https://www.youtube.com/watch?v=4ogG_uqSEc4)
+- [🔴 GitHub Shipped a Security Checklist. Why Aren&#39;t They The Defaults?](https://www.youtube.com/watch?v=4ogG_uqSEc4)
 - [🔴 The AI That Ranks Your Dev Tools Has Never Used Any of Them](https://www.youtube.com/watch?v=8VODaSCPjYs)
 - [🔴 ClickUp Will Pay You a Million Dollars. There Is a Catch.](https://www.youtube.com/watch?v=Wr2UfNmMvXU)
 - [🔴 The Bug Bounty Era Is Over](https://www.youtube.com/watch?v=KaNkzHzNCLY)
