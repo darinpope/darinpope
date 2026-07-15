@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 359: Demos in the Age of AI Agents](https://www.devopsparadox.com/episodes/demos-in-the-age-of-ai-agents-359/)
 - [DOP 358: Just-in-Time Access for AI Agents](https://www.devopsparadox.com/episodes/just-in-time-access-for-ai-agents-358/)
 - [DOP 357: What Is Spec-Driven Development?](https://www.devopsparadox.com/episodes/what-is-spec-driven-development-357/)
 - [DOP 356: Warehouse Robots Are a Distributed System](https://www.devopsparadox.com/episodes/warehouse-robots-are-a-distributed-system-356/)
 - [DOP 355: Why AI Coding Slows Down Code Review](https://www.devopsparadox.com/episodes/why-ai-coding-slows-down-code-review-355/)
-- [DOP 354: Your Dead Founder Trains New Hires](https://www.devopsparadox.com/episodes/your-dead-founder-trains-new-hires-354/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
