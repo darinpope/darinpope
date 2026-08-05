@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 362: Feature Flags vs Canary Deployments](https://www.devopsparadox.com/episodes/feature-flags-vs-canary-deployments-362/)
 - [DOP 361: When Code Got Cheap, Reviewing Got Expensive](https://www.devopsparadox.com/episodes/when-code-got-cheap-reviewing-got-expensive-361/)
 - [DOP 360: What Is an AI SRE?](https://www.devopsparadox.com/episodes/what-is-an-ai-sre-360/)
 - [DOP 359: Demos in the Age of AI Agents](https://www.devopsparadox.com/episodes/demos-in-the-age-of-ai-agents-359/)
 - [DOP 358: Just-in-Time Access for AI Agents](https://www.devopsparadox.com/episodes/just-in-time-access-for-ai-agents-358/)
-- [DOP 357: What Is Spec-Driven Development?](https://www.devopsparadox.com/episodes/what-is-spec-driven-development-357/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
