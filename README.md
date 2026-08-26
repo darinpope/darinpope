@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 365: What the DORA AI ROI Report Really Says](https://www.devopsparadox.com/episodes/what-the-dora-ai-roi-report-really-says-365/)
 - [DOP 364: How to Avoid Burnout as a Leader](https://www.devopsparadox.com/episodes/how-to-avoid-burnout-as-a-leader-364/)
 - [DOP 363: Is Your Website Agent-Ready?](https://www.devopsparadox.com/episodes/is-your-website-agent-ready-363/)
 - [DOP 362: Feature Flags vs Canary Deployments](https://www.devopsparadox.com/episodes/feature-flags-vs-canary-deployments-362/)
 - [DOP 361: When Code Got Cheap, Reviewing Got Expensive](https://www.devopsparadox.com/episodes/when-code-got-cheap-reviewing-got-expensive-361/)
-- [DOP 360: What Is an AI SRE?](https://www.devopsparadox.com/episodes/what-is-an-ai-sre-360/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
