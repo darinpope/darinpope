@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 367: Zero-Human Companies Still Need Humans](https://www.devopsparadox.com/episodes/zero-human-companies-still-need-humans-367/)
 - [DOP 366: How to Prevent npm Supply Chain Attacks](https://www.devopsparadox.com/episodes/how-to-prevent-npm-supply-chain-attacks-366/)
 - [DOP 365: What the DORA AI ROI Report Really Says](https://www.devopsparadox.com/episodes/what-the-dora-ai-roi-report-really-says-365/)
 - [DOP 364: How to Avoid Burnout as a Leader](https://www.devopsparadox.com/episodes/how-to-avoid-burnout-as-a-leader-364/)
 - [DOP 363: Is Your Website Agent-Ready?](https://www.devopsparadox.com/episodes/is-your-website-agent-ready-363/)
-- [DOP 362: Feature Flags vs Canary Deployments](https://www.devopsparadox.com/episodes/feature-flags-vs-canary-deployments-362/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
