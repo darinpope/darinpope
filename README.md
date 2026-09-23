@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 369: Vibe Coding Without the Slop](https://www.devopsparadox.com/episodes/vibe-coding-without-the-slop-369/)
 - [DOP 368: The AI Productivity Paradox](https://www.devopsparadox.com/episodes/the-ai-productivity-paradox-368/)
 - [DOP 367: Zero-Human Companies Still Need Humans](https://www.devopsparadox.com/episodes/zero-human-companies-still-need-humans-367/)
 - [DOP 366: How to Prevent npm Supply Chain Attacks](https://www.devopsparadox.com/episodes/how-to-prevent-npm-supply-chain-attacks-366/)
 - [DOP 365: What the DORA AI ROI Report Really Says](https://www.devopsparadox.com/episodes/what-the-dora-ai-roi-report-really-says-365/)
-- [DOP 364: How to Avoid Burnout as a Leader](https://www.devopsparadox.com/episodes/how-to-avoid-burnout-as-a-leader-364/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
