@@ -26,7 +26,7 @@
 
 # Recent YouTube Livestreams
 <!-- YOUTUBE:START -->
-- [🔴 LIVE: Happy Hour / AMA for 9Oct2026](https://www.youtube.com/watch?v=L7UoHkmOHo0)
+- [🔴 Open Source Is Free as in Puppies](https://www.youtube.com/watch?v=L7UoHkmOHo0)
 - [🔴 Closing Your Source Code Doesn&#39;t Close Your Vulnerabilities](https://www.youtube.com/watch?v=JPH6Thx9ROQ)
 - [🔴 The Only Way to Fund Open Source Is to Sell It](https://www.youtube.com/watch?v=Abc9smlVSE0)
 - [🔴 GitHub Shipped a Security Checklist. Why Aren&#39;t They The Defaults?](https://www.youtube.com/watch?v=4ogG_uqSEc4)
