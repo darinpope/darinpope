@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 373: Are Layoffs Really Because of AI?](https://www.devopsparadox.com/episodes/are-layoffs-really-because-of-ai-373/)
 - [DOP 372: Using AI Every Day Doesn&#39;t Make You Good at It](https://www.devopsparadox.com/episodes/using-ai-every-day-doesn-t-make-you-good-at-it-372/)
 - [DOP 371: Should You Vibe Code Your Own CRM?](https://www.devopsparadox.com/episodes/should-you-vibe-code-your-own-crm-371/)
 - [DOP 370: Will AI Replace QA Testers?](https://www.devopsparadox.com/episodes/will-ai-replace-qa-testers-370/)
 - [DOP 369: Vibe Coding Without the Slop](https://www.devopsparadox.com/episodes/vibe-coding-without-the-slop-369/)
-- [DOP 368: The AI Productivity Paradox](https://www.devopsparadox.com/episodes/the-ai-productivity-paradox-368/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
