@@ -15,11 +15,11 @@
 
 # Recent podcast episodes
 <!-- BLOG-POST-LIST:START -->
+- [DOP 376: Secrets Management for AI Agents](https://www.devopsparadox.com/episodes/secrets-management-for-ai-agents-376/)
 - [DOP 375: AI Writes the Code. Who Understands It?](https://www.devopsparadox.com/episodes/ai-writes-the-code-who-understands-it-375/)
 - [DOP 374: Does AI Make Companies More Productive?](https://www.devopsparadox.com/episodes/does-ai-make-companies-more-productive-374/)
 - [DOP 373: Are Layoffs Really Because of AI?](https://www.devopsparadox.com/episodes/are-layoffs-really-because-of-ai-373/)
 - [DOP 372: Using AI Every Day Doesn&#39;t Make You Good at It](https://www.devopsparadox.com/episodes/using-ai-every-day-doesn-t-make-you-good-at-it-372/)
-- [DOP 371: Should You Vibe Code Your Own CRM?](https://www.devopsparadox.com/episodes/should-you-vibe-code-your-own-crm-371/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
